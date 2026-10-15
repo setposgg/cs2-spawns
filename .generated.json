@@ -1,0 +1,18 @@
+[
+	"angle-evidence.json",
+	"csv/ancient.csv",
+	"csv/anubis.csv",
+	"csv/cache.csv",
+	"csv/dust2.csv",
+	"csv/inferno.csv",
+	"csv/mirage.csv",
+	"csv/nuke.csv",
+	"maps/ancient.svg",
+	"maps/anubis.svg",
+	"maps/cache.svg",
+	"maps/dust2.svg",
+	"maps/inferno.svg",
+	"maps/mirage.svg",
+	"maps/nuke.svg",
+	"spawns.json"
+]

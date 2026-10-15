@@ -1,0 +1,1161 @@
+{
+	"recorded": "2026-10-15",
+	"steamBuild": "25947352",
+	"method": "Source2Viewer 20.0, installed map entity lumps. Enabled info_player_terrorist and info_player_counterterrorist entities, ascending priority tiers until at least five slots per side; retain the whole final tier. Authored angles, not a runtime eye-angle measurement. Registry yaw is rounded within 0.001 degrees of these measured angles.",
+	"maps": {
+		"ancient": {
+			"vpkSha256": "6e54d22ff86709d71843b52febbfe6fcd48633a20b6a2b25c6ffbdf0b796d712",
+			"spawns": [
+				{
+					"side": "ct",
+					"x": -512,
+					"y": 1696,
+					"entityZ": 32,
+					"pitch": 0,
+					"yaw": 270,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:33002"
+				},
+				{
+					"side": "ct",
+					"x": -448,
+					"y": 1728,
+					"entityZ": 32,
+					"pitch": 0,
+					"yaw": 270,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:33001"
+				},
+				{
+					"side": "ct",
+					"x": -352,
+					"y": 1728,
+					"entityZ": 32,
+					"pitch": 0,
+					"yaw": 270,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:32999"
+				},
+				{
+					"side": "ct",
+					"x": -256,
+					"y": 1728,
+					"entityZ": 32,
+					"pitch": 0,
+					"yaw": 270,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:32997"
+				},
+				{
+					"side": "ct",
+					"x": -192,
+					"y": 1696,
+					"entityZ": 32,
+					"pitch": 0,
+					"yaw": 270,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:32995"
+				},
+				{
+					"side": "t",
+					"x": -584,
+					"y": -2288,
+					"entityZ": -156,
+					"pitch": 0,
+					"yaw": 90,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:32990"
+				},
+				{
+					"side": "t",
+					"x": -520,
+					"y": -2224,
+					"entityZ": -156,
+					"pitch": 0,
+					"yaw": 90,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:32992"
+				},
+				{
+					"side": "t",
+					"x": -456,
+					"y": -2288,
+					"entityZ": -156,
+					"pitch": 0,
+					"yaw": 90,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:32988"
+				},
+				{
+					"side": "t",
+					"x": -392,
+					"y": -2224,
+					"entityZ": -156,
+					"pitch": 0,
+					"yaw": 90,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:32991"
+				},
+				{
+					"side": "t",
+					"x": -328,
+					"y": -2288,
+					"entityZ": -156,
+					"pitch": 0,
+					"yaw": 90,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:32987"
+				}
+			]
+		},
+		"anubis": {
+			"vpkSha256": "bca91cee11592c65c2869c599769232f29335458376ed90431a013b58c938e07",
+			"spawns": [
+				{
+					"side": "ct",
+					"x": -608,
+					"y": 2120,
+					"entityZ": 32,
+					"pitch": 0,
+					"yaw": 315,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:22265"
+				},
+				{
+					"side": "ct",
+					"x": -560,
+					"y": 2192,
+					"entityZ": 32,
+					"pitch": 0,
+					"yaw": 285,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:22263"
+				},
+				{
+					"side": "ct",
+					"x": -476,
+					"y": 2216,
+					"entityZ": 32,
+					"pitch": 0,
+					"yaw": 270,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:22264"
+				},
+				{
+					"side": "ct",
+					"x": -400,
+					"y": 2192,
+					"entityZ": 32.000099,
+					"pitch": 0,
+					"yaw": 240,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:22262"
+				},
+				{
+					"side": "ct",
+					"x": -360,
+					"y": 2120,
+					"entityZ": 32.000099,
+					"pitch": 0,
+					"yaw": 225,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:22266"
+				},
+				{
+					"side": "t",
+					"x": -416,
+					"y": -1696,
+					"entityZ": 16,
+					"pitch": 0,
+					"yaw": 135,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:22611"
+				},
+				{
+					"side": "t",
+					"x": -416,
+					"y": -1608,
+					"entityZ": 16,
+					"pitch": 0,
+					"yaw": 150,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:22623"
+				},
+				{
+					"side": "t",
+					"x": -384,
+					"y": -1552,
+					"entityZ": 16,
+					"pitch": 0,
+					"yaw": 165,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:22615"
+				},
+				{
+					"side": "t",
+					"x": -328,
+					"y": -1528,
+					"entityZ": 16,
+					"pitch": 0,
+					"yaw": 150,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:22616"
+				},
+				{
+					"side": "t",
+					"x": -304,
+					"y": -1608,
+					"entityZ": 16,
+					"pitch": 0,
+					"yaw": 135,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:22624"
+				},
+				{
+					"side": "t",
+					"x": -264,
+					"y": -1560,
+					"entityZ": 16,
+					"pitch": 0,
+					"yaw": 90,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:22617"
+				},
+				{
+					"side": "t",
+					"x": -234,
+					"y": -1503.079956,
+					"entityZ": 16,
+					"pitch": 0,
+					"yaw": 45,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:22613"
+				},
+				{
+					"side": "t",
+					"x": -192,
+					"y": -1608,
+					"entityZ": 16,
+					"pitch": 0,
+					"yaw": 90,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:22625"
+				},
+				{
+					"side": "t",
+					"x": -154,
+					"y": -1503.079956,
+					"entityZ": 16,
+					"pitch": 0,
+					"yaw": 30,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:22614"
+				},
+				{
+					"side": "t",
+					"x": -144,
+					"y": -1568,
+					"entityZ": 16,
+					"pitch": 0,
+					"yaw": 60,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:22619"
+				},
+				{
+					"side": "t",
+					"x": -128.003998,
+					"y": -1632,
+					"entityZ": 16,
+					"pitch": 0,
+					"yaw": 45,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:22620"
+				}
+			]
+		},
+		"cache": {
+			"vpkSha256": "a53d4294883fb2c51025cfa3d4208fa396494f9492ebd51ea7138e8a231aefcd",
+			"spawns": [
+				{
+					"side": "ct",
+					"x": -1524.283203,
+					"y": 794.819336,
+					"entityZ": 1615.776733,
+					"pitch": 0,
+					"yaw": 270,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "121325"
+				},
+				{
+					"side": "ct",
+					"x": -1488.283203,
+					"y": 706.819336,
+					"entityZ": 1615.776733,
+					"pitch": 0,
+					"yaw": 270,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "121318"
+				},
+				{
+					"side": "ct",
+					"x": -1488.283203,
+					"y": 874.819336,
+					"entityZ": 1615.776733,
+					"pitch": 0,
+					"yaw": 270,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "121313"
+				},
+				{
+					"side": "ct",
+					"x": -1400.283203,
+					"y": 706.819336,
+					"entityZ": 1615.776733,
+					"pitch": 0,
+					"yaw": 270,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "121319"
+				},
+				{
+					"side": "ct",
+					"x": -1400.283203,
+					"y": 874.819336,
+					"entityZ": 1615.776733,
+					"pitch": 0,
+					"yaw": 270,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "121312"
+				},
+				{
+					"side": "t",
+					"x": 2916.768555,
+					"y": 69.417786,
+					"entityZ": 1628,
+					"pitch": 0,
+					"yaw": 182,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "121301"
+				},
+				{
+					"side": "t",
+					"x": 2922.518555,
+					"y": 165.667786,
+					"entityZ": 1628,
+					"pitch": 0,
+					"yaw": 182,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "121307",
+					"observedFeetZ": 1616.030273,
+					"feetSource": "https://setpos.gg/cache/t10",
+					"feetCommand": "setpos 2922.518555 165.667786 1616.030273"
+				},
+				{
+					"side": "t",
+					"x": 2949.018555,
+					"y": -47.000008,
+					"entityZ": 1628,
+					"pitch": 0,
+					"yaw": 182,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "121297",
+					"observedFeetZ": 1608.031372,
+					"feetSource": "https://setpos.gg/cache/t4",
+					"feetCommand": "setpos 2949.018555 -47.000000 1608.031372"
+				},
+				{
+					"side": "t",
+					"x": 2995.893555,
+					"y": -168,
+					"entityZ": 1628,
+					"pitch": 0,
+					"yaw": 182,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "121298",
+					"observedFeetZ": 1608.031372,
+					"feetSource": "https://setpos.gg/cache/t1",
+					"feetCommand": "setpos 2995.893555 -168.000000 1608.031372"
+				},
+				{
+					"side": "t",
+					"x": 3037.893555,
+					"y": 66.667786,
+					"entityZ": 1628,
+					"pitch": 0,
+					"yaw": 182,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "121302",
+					"observedFeetZ": 1608.031372,
+					"feetSource": "https://setpos.gg/cache/t8",
+					"feetCommand": "setpos 3037.893555 66.667786 1608.031372"
+				},
+				{
+					"side": "t",
+					"x": 3041.768555,
+					"y": -21.082214,
+					"entityZ": 1628,
+					"pitch": 0,
+					"yaw": 182,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "121296"
+				},
+				{
+					"side": "t",
+					"x": 3077.768555,
+					"y": 135.917786,
+					"entityZ": 1628,
+					"pitch": 0,
+					"yaw": 182,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "121303"
+				},
+				{
+					"side": "t",
+					"x": 3094.268555,
+					"y": -152.582214,
+					"entityZ": 1628,
+					"pitch": 0,
+					"yaw": 182,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "121299"
+				},
+				{
+					"side": "t",
+					"x": 3162.143555,
+					"y": -5.000008,
+					"entityZ": 1628,
+					"pitch": 0,
+					"yaw": 182,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "121295",
+					"observedFeetZ": 1608.031372,
+					"feetSource": "https://setpos.gg/cache/t6",
+					"feetCommand": "setpos 3162.143555 -5.000000 1608.031372"
+				},
+				{
+					"side": "t",
+					"x": 3171.643555,
+					"y": -100.832214,
+					"entityZ": 1628,
+					"pitch": 0,
+					"yaw": 182,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "121300",
+					"observedFeetZ": 1608.03125,
+					"feetSource": "https://setpos.gg/cache/t3",
+					"feetCommand": "setpos 3171.643555 -100.832214 1608.031250"
+				}
+			]
+		},
+		"dust2": {
+			"vpkSha256": "51d6bb432b6553bfae6c38219a527c5de2464a2b107080f2b8be7d8427ebb885",
+			"spawns": [
+				{
+					"side": "ct",
+					"x": 160.122742,
+					"y": 2369.67627,
+					"entityZ": -110,
+					"pitch": 0,
+					"yaw": 23.999994,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:23491"
+				},
+				{
+					"side": "ct",
+					"x": 182.249908,
+					"y": 2439.011719,
+					"entityZ": -110,
+					"pitch": 0,
+					"yaw": 356,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:23490"
+				},
+				{
+					"side": "ct",
+					"x": 258.159393,
+					"y": 2480.553711,
+					"entityZ": -110,
+					"pitch": 0,
+					"yaw": 292.5,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:23492"
+				},
+				{
+					"side": "ct",
+					"x": 334.368744,
+					"y": 2433.733643,
+					"entityZ": -110,
+					"pitch": 0,
+					"yaw": 229.999985,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:23493"
+				},
+				{
+					"side": "ct",
+					"x": 351.39212,
+					"y": 2352.942383,
+					"entityZ": -110,
+					"pitch": 0,
+					"yaw": 202.5,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:23494"
+				},
+				{
+					"side": "t",
+					"x": -1181,
+					"y": -754,
+					"entityZ": 150.709,
+					"pitch": 0,
+					"yaw": 42,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:23503"
+				},
+				{
+					"side": "t",
+					"x": -1141,
+					"y": -808,
+					"entityZ": 150.709,
+					"pitch": 0,
+					"yaw": 111.999992,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:23502"
+				},
+				{
+					"side": "t",
+					"x": -1076,
+					"y": -843,
+					"entityZ": 150.709,
+					"pitch": 0,
+					"yaw": 133.499985,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:23504"
+				},
+				{
+					"side": "t",
+					"x": -1015,
+					"y": -808,
+					"entityZ": 150.709,
+					"pitch": 0,
+					"yaw": 183.000015,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:23505"
+				},
+				{
+					"side": "t",
+					"x": -980,
+					"y": -754,
+					"entityZ": 150.709,
+					"pitch": 0,
+					"yaw": 212.500015,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:23506"
+				},
+				{
+					"side": "t",
+					"x": -857.506531,
+					"y": -738.361328,
+					"entityZ": 150.709,
+					"pitch": 0,
+					"yaw": 37,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:23497"
+				},
+				{
+					"side": "t",
+					"x": -822.365173,
+					"y": -795.64209,
+					"entityZ": 150.709,
+					"pitch": 0,
+					"yaw": 106.999992,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:23496"
+				},
+				{
+					"side": "t",
+					"x": -760.662964,
+					"y": -836.174011,
+					"entityZ": 150.709,
+					"pitch": 0,
+					"yaw": 128.499969,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:23498"
+				},
+				{
+					"side": "t",
+					"x": -696.844604,
+					"y": -806.623718,
+					"entityZ": 150.709,
+					"pitch": 0,
+					"yaw": 178,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:23499"
+				},
+				{
+					"side": "t",
+					"x": -657.271362,
+					"y": -755.879639,
+					"entityZ": 150.709,
+					"pitch": 0,
+					"yaw": 207.500015,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:23500"
+				},
+				{
+					"side": "t",
+					"x": -533,
+					"y": -754,
+					"entityZ": 134.709,
+					"pitch": 0,
+					"yaw": 42,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:23509"
+				},
+				{
+					"side": "t",
+					"x": -493,
+					"y": -808,
+					"entityZ": 134.709,
+					"pitch": 0,
+					"yaw": 111.999992,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:23508"
+				},
+				{
+					"side": "t",
+					"x": -428,
+					"y": -843,
+					"entityZ": 134.709,
+					"pitch": 0,
+					"yaw": 133.499985,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:23510"
+				},
+				{
+					"side": "t",
+					"x": -367,
+					"y": -808,
+					"entityZ": 134.709,
+					"pitch": 0,
+					"yaw": 183.000015,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:23511"
+				},
+				{
+					"side": "t",
+					"x": -332,
+					"y": -754,
+					"entityZ": 134.709,
+					"pitch": 0,
+					"yaw": 212.500015,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:23512"
+				}
+			]
+		},
+		"inferno": {
+			"vpkSha256": "bfe3d8a996feb43962b11a51acd76068fd001f793fa750f7df5cf7d9d23a9d89",
+			"spawns": [
+				{
+					"side": "ct",
+					"x": 2292.060059,
+					"y": 2027.689941,
+					"entityZ": 140.843002,
+					"pitch": 0,
+					"yaw": 70,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "42"
+				},
+				{
+					"side": "ct",
+					"x": 2353,
+					"y": 1977,
+					"entityZ": 140.843002,
+					"pitch": 0,
+					"yaw": 97.5,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "41"
+				},
+				{
+					"side": "ct",
+					"x": 2397,
+					"y": 2079,
+					"entityZ": 155,
+					"pitch": 0,
+					"yaw": 135,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "195"
+				},
+				{
+					"side": "ct",
+					"x": 2456.830078,
+					"y": 2153.159912,
+					"entityZ": 140.843002,
+					"pitch": 0,
+					"yaw": 251.5,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "39"
+				},
+				{
+					"side": "ct",
+					"x": 2472.349854,
+					"y": 2005.969971,
+					"entityZ": 140.843002,
+					"pitch": 0,
+					"yaw": 160,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "40"
+				},
+				{
+					"side": "ct",
+					"x": 2493,
+					"y": 2090,
+					"entityZ": 140.843002,
+					"pitch": 0,
+					"yaw": 223.5,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "38"
+				},
+				{
+					"side": "t",
+					"x": -1675.619995,
+					"y": 351.695007,
+					"entityZ": -46,
+					"pitch": 0,
+					"yaw": 48,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "21"
+				},
+				{
+					"side": "t",
+					"x": -1662.180054,
+					"y": 288.761993,
+					"entityZ": -46,
+					"pitch": 0,
+					"yaw": 77.5,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "22"
+				},
+				{
+					"side": "t",
+					"x": -1657.22998,
+					"y": 419.576996,
+					"entityZ": -46,
+					"pitch": 0,
+					"yaw": 358.5,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "20"
+				},
+				{
+					"side": "t",
+					"x": -1586.52002,
+					"y": 440.790009,
+					"entityZ": -46,
+					"pitch": 0,
+					"yaw": 337,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "18"
+				},
+				{
+					"side": "t",
+					"x": -1520.060059,
+					"y": 430.890991,
+					"entityZ": -46,
+					"pitch": 0,
+					"yaw": 267,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "19"
+				}
+			]
+		},
+		"mirage": {
+			"vpkSha256": "e66cdf1ae6a976f6f6ba510a2addd04b25a4c1cfd811f51f1ef13f0954e6e350",
+			"spawns": [
+				{
+					"side": "ct",
+					"x": -1776,
+					"y": -1976,
+					"entityZ": -240,
+					"pitch": 0,
+					"yaw": 331,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:60272"
+				},
+				{
+					"side": "ct",
+					"x": -1776,
+					"y": -1800,
+					"entityZ": -240,
+					"pitch": 0,
+					"yaw": 36,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:60278"
+				},
+				{
+					"side": "ct",
+					"x": -1720,
+					"y": -1896,
+					"entityZ": -240,
+					"pitch": 0,
+					"yaw": 50,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:60295"
+				},
+				{
+					"side": "ct",
+					"x": -1656,
+					"y": -1976,
+					"entityZ": -240,
+					"pitch": 0,
+					"yaw": 299,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:60297"
+				},
+				{
+					"side": "ct",
+					"x": -1656,
+					"y": -1800,
+					"entityZ": -240,
+					"pitch": 0,
+					"yaw": 94,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:60296"
+				},
+				{
+					"side": "t",
+					"x": 1136,
+					"y": -256,
+					"entityZ": -144,
+					"pitch": 0,
+					"yaw": 270,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:60308"
+				},
+				{
+					"side": "t",
+					"x": 1136,
+					"y": -160,
+					"entityZ": -144,
+					"pitch": 0,
+					"yaw": 270,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:60309"
+				},
+				{
+					"side": "t",
+					"x": 1136,
+					"y": -64,
+					"entityZ": -144,
+					"pitch": 0,
+					"yaw": 90,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:60310"
+				},
+				{
+					"side": "t",
+					"x": 1136,
+					"y": 32,
+					"entityZ": -144,
+					"pitch": 0,
+					"yaw": 90,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:60311"
+				},
+				{
+					"side": "t",
+					"x": 1216,
+					"y": -307,
+					"entityZ": -144,
+					"pitch": 0,
+					"yaw": 270,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:60307"
+				},
+				{
+					"side": "t",
+					"x": 1216,
+					"y": -211,
+					"entityZ": -144,
+					"pitch": 0,
+					"yaw": 270,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:60306"
+				},
+				{
+					"side": "t",
+					"x": 1216,
+					"y": -115,
+					"entityZ": -144,
+					"pitch": 0,
+					"yaw": 90,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:60305"
+				},
+				{
+					"side": "t",
+					"x": 1216,
+					"y": -16,
+					"entityZ": -144,
+					"pitch": 0,
+					"yaw": 90,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:60304"
+				},
+				{
+					"side": "t",
+					"x": 1296,
+					"y": -352,
+					"entityZ": -144,
+					"pitch": 0,
+					"yaw": 227,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:60299"
+				},
+				{
+					"side": "t",
+					"x": 1296,
+					"y": 32,
+					"entityZ": -144,
+					"pitch": 0,
+					"yaw": 141,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:60303"
+				}
+			]
+		},
+		"nuke": {
+			"vpkSha256": "ab56860b13c86ead3f0f17f1488e4cec44ac0208dbfdda9f1fecb5d5e769d4a7",
+			"spawns": [
+				{
+					"side": "ct",
+					"x": 2504,
+					"y": -344,
+					"entityZ": -335,
+					"pitch": 0,
+					"yaw": 271,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:47509"
+				},
+				{
+					"side": "ct",
+					"x": 2512,
+					"y": -504,
+					"entityZ": -335,
+					"pitch": 0,
+					"yaw": 145,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:47512"
+				},
+				{
+					"side": "ct",
+					"x": 2552,
+					"y": -424,
+					"entityZ": -335,
+					"pitch": 0,
+					"yaw": 207.5,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:47511"
+				},
+				{
+					"side": "ct",
+					"x": 2584,
+					"y": -504,
+					"entityZ": -335,
+					"pitch": 0,
+					"yaw": 161,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:47523"
+				},
+				{
+					"side": "ct",
+					"x": 2585,
+					"y": -344,
+					"entityZ": -335,
+					"pitch": 0,
+					"yaw": 200.5,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:47520"
+				},
+				{
+					"side": "t",
+					"x": -1947.01001,
+					"y": -1102.109985,
+					"entityZ": -400.634003,
+					"pitch": 0,
+					"yaw": 74.5,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:47498"
+				},
+				{
+					"side": "t",
+					"x": -1947.01001,
+					"y": -965.109985,
+					"entityZ": -400.634003,
+					"pitch": 0,
+					"yaw": 312,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:47495"
+				},
+				{
+					"side": "t",
+					"x": -1929,
+					"y": -1025,
+					"entityZ": -400.634003,
+					"pitch": 0,
+					"yaw": 3,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:47506"
+				},
+				{
+					"side": "t",
+					"x": -1878,
+					"y": -980,
+					"entityZ": -400.634003,
+					"pitch": 0,
+					"yaw": 294,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:47504"
+				},
+				{
+					"side": "t",
+					"x": -1874,
+					"y": -1076,
+					"entityZ": -400.634003,
+					"pitch": 0,
+					"yaw": 336,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:47507"
+				},
+				{
+					"side": "t",
+					"x": -1832,
+					"y": -1160,
+					"entityZ": -400.634003,
+					"pitch": 0,
+					"yaw": 40,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:47505"
+				},
+				{
+					"side": "t",
+					"x": -1808,
+					"y": -1089,
+					"entityZ": -400.634003,
+					"pitch": 0,
+					"yaw": 340,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:47508"
+				},
+				{
+					"side": "t",
+					"x": -1808,
+					"y": -1025,
+					"entityZ": -400.634003,
+					"pitch": 0,
+					"yaw": 329,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:47457"
+				}
+			]
+		}
+	},
+	"feetMethod": "Six Cache T heights missing from the current registry are measured feet positions from published lineup commands on setpos.gg, captured on the recorded date. Commands matched to entity x/y within 0.01 world units. Other feet heights come directly from the competitive spawn registries."
+}
