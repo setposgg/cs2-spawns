@@ -1,7 +1,7 @@
 {
 	"recorded": "2026-10-15",
 	"steamBuild": "25947352",
-	"method": "Source2Viewer 20.0, installed map entity lumps. Enabled info_player_terrorist and info_player_counterterrorist entities, ascending priority tiers until at least five slots per side; retain the whole final tier. Authored angles, not a runtime eye-angle measurement. Registry yaw is rounded within 0.001 degrees of these measured angles.",
+	"method": "Source2Viewer 20.0, installed map entity lumps. All info_player_terrorist and info_player_counterterrorist entities, including disabled entities. Competitive selection: enabled entities, ascending priority tiers until at least five slots per side; retain the whole final tier. Authored angles, not a runtime eye-angle measurement. Registry yaw is rounded within 0.001 degrees of these measured angles.",
 	"maps": {
 		"ancient": {
 			"vpkSha256": "6e54d22ff86709d71843b52febbfe6fcd48633a20b6a2b25c6ffbdf0b796d712",
@@ -15,7 +15,24 @@
 					"yaw": 270,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:33002"
+					"hammerId": "2:33002",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "ct",
+					"x": -480,
+					"y": 1632,
+					"entityZ": 32,
+					"pitch": 0,
+					"yaw": 270,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:33003",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "ct",
@@ -26,7 +43,52 @@
 					"yaw": 270,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:33001"
+					"hammerId": "2:33001",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "ct",
+					"x": -416,
+					"y": 1568,
+					"entityZ": 32,
+					"pitch": 0,
+					"yaw": 270,
+					"roll": 0,
+					"priority": 2,
+					"hammerId": "2:33004",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "ct",
+					"x": -416,
+					"y": 1664,
+					"entityZ": 32,
+					"pitch": 0,
+					"yaw": 270,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:33000",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "ct",
+					"x": -352,
+					"y": 1632,
+					"entityZ": 32,
+					"pitch": 0,
+					"yaw": 270,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:32998",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "ct",
@@ -37,7 +99,38 @@
 					"yaw": 270,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:32999"
+					"hammerId": "2:32999",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "ct",
+					"x": -288,
+					"y": 1568,
+					"entityZ": 32,
+					"pitch": 0,
+					"yaw": 270,
+					"roll": 0,
+					"priority": 2,
+					"hammerId": "2:32993",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "ct",
+					"x": -288,
+					"y": 1664,
+					"entityZ": 32,
+					"pitch": 0,
+					"yaw": 270,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:32996",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "ct",
@@ -48,7 +141,24 @@
 					"yaw": 270,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:32997"
+					"hammerId": "2:32997",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "ct",
+					"x": -224,
+					"y": 1632,
+					"entityZ": 32,
+					"pitch": 0,
+					"yaw": 270,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:32994",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "ct",
@@ -59,7 +169,10 @@
 					"yaw": 270,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:32995"
+					"hammerId": "2:32995",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "t",
@@ -70,7 +183,38 @@
 					"yaw": 90,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:32990"
+					"hammerId": "2:32990",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "t",
+					"x": -552,
+					"y": -2384,
+					"entityZ": -156,
+					"pitch": 0,
+					"yaw": 90,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:32984",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "t",
+					"x": -520,
+					"y": -2320,
+					"entityZ": -156,
+					"pitch": 0,
+					"yaw": 90,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:32989",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "t",
@@ -81,7 +225,38 @@
 					"yaw": 90,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:32992"
+					"hammerId": "2:32992",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "t",
+					"x": -456,
+					"y": -2448,
+					"entityZ": -156,
+					"pitch": 0,
+					"yaw": 90,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:32985",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "t",
+					"x": -456,
+					"y": -2384,
+					"entityZ": -156,
+					"pitch": 0,
+					"yaw": 90,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:32981",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "t",
@@ -92,7 +267,24 @@
 					"yaw": 90,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:32988"
+					"hammerId": "2:32988",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "t",
+					"x": -392,
+					"y": -2320,
+					"entityZ": -156,
+					"pitch": 0,
+					"yaw": 90,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:32986",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "t",
@@ -103,7 +295,24 @@
 					"yaw": 90,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:32991"
+					"hammerId": "2:32991",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "t",
+					"x": -360,
+					"y": -2384,
+					"entityZ": -156,
+					"pitch": 0,
+					"yaw": 90,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:32982",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "t",
@@ -114,13 +323,58 @@
 					"yaw": 90,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:32987"
+					"hammerId": "2:32987",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "t",
+					"x": -296,
+					"y": -2352,
+					"entityZ": -156,
+					"pitch": 0,
+					"yaw": 90,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:32983",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				}
 			]
 		},
 		"anubis": {
 			"vpkSha256": "bca91cee11592c65c2869c599769232f29335458376ed90431a013b58c938e07",
 			"spawns": [
+				{
+					"side": "ct",
+					"x": -672,
+					"y": 2152,
+					"entityZ": 32,
+					"pitch": 0,
+					"yaw": 315,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:22275",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "ct",
+					"x": -628,
+					"y": 2208,
+					"entityZ": 32,
+					"pitch": 0,
+					"yaw": 345,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:22273",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
+				},
 				{
 					"side": "ct",
 					"x": -608,
@@ -130,7 +384,24 @@
 					"yaw": 315,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:22265"
+					"hammerId": "2:22265",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "ct",
+					"x": -576,
+					"y": 2252,
+					"entityZ": 32,
+					"pitch": 0,
+					"yaw": 345,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:22269",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
 				},
 				{
 					"side": "ct",
@@ -141,7 +412,10 @@
 					"yaw": 285,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:22263"
+					"hammerId": "2:22263",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
 				},
 				{
 					"side": "ct",
@@ -152,7 +426,24 @@
 					"yaw": 270,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:22264"
+					"hammerId": "2:22264",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "ct",
+					"x": -432,
+					"y": 2268,
+					"entityZ": 32,
+					"pitch": 0,
+					"yaw": 255,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:22267",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
 				},
 				{
 					"side": "ct",
@@ -163,7 +454,10 @@
 					"yaw": 240,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:22262"
+					"hammerId": "2:22262",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
 				},
 				{
 					"side": "ct",
@@ -174,7 +468,108 @@
 					"yaw": 225,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:22266"
+					"hammerId": "2:22266",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "ct",
+					"x": -360,
+					"y": 2288,
+					"entityZ": 32,
+					"pitch": 0,
+					"yaw": 270,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:22270",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "ct",
+					"x": -340,
+					"y": 2216,
+					"entityZ": 32,
+					"pitch": 0,
+					"yaw": 255,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:22272",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "ct",
+					"x": -292,
+					"y": 2328,
+					"entityZ": 32,
+					"pitch": 0,
+					"yaw": 330,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:22277",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "ct",
+					"x": -284,
+					"y": 2176,
+					"entityZ": 32,
+					"pitch": 0,
+					"yaw": 270,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:22274",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "ct",
+					"x": -240,
+					"y": 2268,
+					"entityZ": 32,
+					"pitch": 0,
+					"yaw": 240,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:22276",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "ct",
+					"x": -212,
+					"y": 2184,
+					"entityZ": 32,
+					"pitch": 0,
+					"yaw": 195,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:22268",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "ct",
+					"x": -192,
+					"y": 2336,
+					"entityZ": 32,
+					"pitch": 0,
+					"yaw": 225,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:22271",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
 				},
 				{
 					"side": "t",
@@ -185,7 +580,10 @@
 					"yaw": 135,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:22611"
+					"hammerId": "2:22611",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
 				},
 				{
 					"side": "t",
@@ -196,7 +594,10 @@
 					"yaw": 150,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:22623"
+					"hammerId": "2:22623",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
 				},
 				{
 					"side": "t",
@@ -207,7 +608,38 @@
 					"yaw": 165,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:22615"
+					"hammerId": "2:22615",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "t",
+					"x": -352,
+					"y": -1696,
+					"entityZ": 16,
+					"pitch": 0,
+					"yaw": 120,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:22622",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "t",
+					"x": -352,
+					"y": -1640,
+					"entityZ": 16,
+					"pitch": 0,
+					"yaw": 120,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:22612",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
 				},
 				{
 					"side": "t",
@@ -218,7 +650,10 @@
 					"yaw": 150,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:22616"
+					"hammerId": "2:22616",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
 				},
 				{
 					"side": "t",
@@ -229,7 +664,10 @@
 					"yaw": 135,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:22624"
+					"hammerId": "2:22624",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
 				},
 				{
 					"side": "t",
@@ -240,7 +678,38 @@
 					"yaw": 90,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:22617"
+					"hammerId": "2:22617",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "t",
+					"x": -248,
+					"y": -1632,
+					"entityZ": 16,
+					"pitch": 0,
+					"yaw": 90,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:22618",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "t",
+					"x": -240,
+					"y": -1696,
+					"entityZ": 16,
+					"pitch": 0,
+					"yaw": 90,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:22621",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
 				},
 				{
 					"side": "t",
@@ -251,7 +720,10 @@
 					"yaw": 45,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:22613"
+					"hammerId": "2:22613",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
 				},
 				{
 					"side": "t",
@@ -262,7 +734,24 @@
 					"yaw": 90,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:22625"
+					"hammerId": "2:22625",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "t",
+					"x": -176,
+					"y": -1696,
+					"entityZ": 16,
+					"pitch": 0,
+					"yaw": 45,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:22610",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
 				},
 				{
 					"side": "t",
@@ -273,7 +762,10 @@
 					"yaw": 30,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:22614"
+					"hammerId": "2:22614",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
 				},
 				{
 					"side": "t",
@@ -284,7 +776,10 @@
 					"yaw": 60,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:22619"
+					"hammerId": "2:22619",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
 				},
 				{
 					"side": "t",
@@ -295,13 +790,114 @@
 					"yaw": 45,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:22620"
+					"hammerId": "2:22620",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
 				}
 			]
 		},
 		"cache": {
 			"vpkSha256": "a53d4294883fb2c51025cfa3d4208fa396494f9492ebd51ea7138e8a231aefcd",
 			"spawns": [
+				{
+					"side": "ct",
+					"x": -1648.283203,
+					"y": 706.819336,
+					"entityZ": 1615.776733,
+					"pitch": 0,
+					"yaw": 270,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "121316",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "ct",
+					"x": -1648.283203,
+					"y": 874.819336,
+					"entityZ": 1615.776733,
+					"pitch": 0,
+					"yaw": 270,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "121315",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "ct",
+					"x": -1600.283203,
+					"y": 618.819336,
+					"entityZ": 1615.776733,
+					"pitch": 0,
+					"yaw": 270,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "121320",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "ct",
+					"x": -1600.283203,
+					"y": 794.819336,
+					"entityZ": 1615.776733,
+					"pitch": 0,
+					"yaw": 270,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "121310",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "ct",
+					"x": -1600.283203,
+					"y": 954.819336,
+					"entityZ": 1615.776733,
+					"pitch": 0,
+					"yaw": 270,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "121322",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "ct",
+					"x": -1560.283203,
+					"y": 706.819336,
+					"entityZ": 1615.776733,
+					"pitch": 0,
+					"yaw": 270,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "121317",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "ct",
+					"x": -1560.283203,
+					"y": 874.819336,
+					"entityZ": 1615.776733,
+					"pitch": 0,
+					"yaw": 270,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "121314",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
+				},
 				{
 					"side": "ct",
 					"x": -1524.283203,
@@ -311,7 +907,24 @@
 					"yaw": 270,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "121325"
+					"hammerId": "121325",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "ct",
+					"x": -1524.283203,
+					"y": 970.819336,
+					"entityZ": 1615.776733,
+					"pitch": 0,
+					"yaw": 270,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "121324",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
 				},
 				{
 					"side": "ct",
@@ -322,7 +935,10 @@
 					"yaw": 270,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "121318"
+					"hammerId": "121318",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
 				},
 				{
 					"side": "ct",
@@ -333,7 +949,52 @@
 					"yaw": 270,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "121313"
+					"hammerId": "121313",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "ct",
+					"x": -1448.283203,
+					"y": 618.819336,
+					"entityZ": 1615.776733,
+					"pitch": 0,
+					"yaw": 270,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "121321",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "ct",
+					"x": -1448.283203,
+					"y": 794.819336,
+					"entityZ": 1615.776733,
+					"pitch": 0,
+					"yaw": 270,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "121311",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "ct",
+					"x": -1448.283203,
+					"y": 954.819336,
+					"entityZ": 1615.776733,
+					"pitch": 0,
+					"yaw": 270,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "121323",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
 				},
 				{
 					"side": "ct",
@@ -344,7 +1005,10 @@
 					"yaw": 270,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "121319"
+					"hammerId": "121319",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
 				},
 				{
 					"side": "ct",
@@ -355,7 +1019,10 @@
 					"yaw": 270,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "121312"
+					"hammerId": "121312",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
 				},
 				{
 					"side": "t",
@@ -366,7 +1033,10 @@
 					"yaw": 182,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "121301"
+					"hammerId": "121301",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
 				},
 				{
 					"side": "t",
@@ -380,7 +1050,10 @@
 					"hammerId": "121307",
 					"observedFeetZ": 1616.030273,
 					"feetSource": "https://setpos.gg/cache/t10",
-					"feetCommand": "setpos 2922.518555 165.667786 1616.030273"
+					"feetCommand": "setpos 2922.518555 165.667786 1616.030273",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
 				},
 				{
 					"side": "t",
@@ -394,7 +1067,10 @@
 					"hammerId": "121297",
 					"observedFeetZ": 1608.031372,
 					"feetSource": "https://setpos.gg/cache/t4",
-					"feetCommand": "setpos 2949.018555 -47.000000 1608.031372"
+					"feetCommand": "setpos 2949.018555 -47.000000 1608.031372",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
 				},
 				{
 					"side": "t",
@@ -408,7 +1084,24 @@
 					"hammerId": "121298",
 					"observedFeetZ": 1608.031372,
 					"feetSource": "https://setpos.gg/cache/t1",
-					"feetCommand": "setpos 2995.893555 -168.000000 1608.031372"
+					"feetCommand": "setpos 2995.893555 -168.000000 1608.031372",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "t",
+					"x": 3019.268555,
+					"y": 225.417786,
+					"entityZ": 1628,
+					"pitch": 0,
+					"yaw": 182,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "121305",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
 				},
 				{
 					"side": "t",
@@ -422,7 +1115,10 @@
 					"hammerId": "121302",
 					"observedFeetZ": 1608.031372,
 					"feetSource": "https://setpos.gg/cache/t8",
-					"feetCommand": "setpos 3037.893555 66.667786 1608.031372"
+					"feetCommand": "setpos 3037.893555 66.667786 1608.031372",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
 				},
 				{
 					"side": "t",
@@ -433,7 +1129,10 @@
 					"yaw": 182,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "121296"
+					"hammerId": "121296",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
 				},
 				{
 					"side": "t",
@@ -444,7 +1143,24 @@
 					"yaw": 182,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "121303"
+					"hammerId": "121303",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "t",
+					"x": 3078.643555,
+					"y": 309.542786,
+					"entityZ": 1628,
+					"pitch": 0,
+					"yaw": 182,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "121306",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
 				},
 				{
 					"side": "t",
@@ -455,7 +1171,24 @@
 					"yaw": 182,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "121299"
+					"hammerId": "121299",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "t",
+					"x": 3151.143555,
+					"y": 62.292786,
+					"entityZ": 1628,
+					"pitch": 0,
+					"yaw": 182,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "121292",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
 				},
 				{
 					"side": "t",
@@ -469,7 +1202,10 @@
 					"hammerId": "121295",
 					"observedFeetZ": 1608.031372,
 					"feetSource": "https://setpos.gg/cache/t6",
-					"feetCommand": "setpos 3162.143555 -5.000000 1608.031372"
+					"feetCommand": "setpos 3162.143555 -5.000000 1608.031372",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
 				},
 				{
 					"side": "t",
@@ -483,13 +1219,86 @@
 					"hammerId": "121300",
 					"observedFeetZ": 1608.03125,
 					"feetSource": "https://setpos.gg/cache/t3",
-					"feetCommand": "setpos 3171.643555 -100.832214 1608.031250"
+					"feetCommand": "setpos 3171.643555 -100.832214 1608.031250",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "t",
+					"x": 3190.518555,
+					"y": 251.667786,
+					"entityZ": 1628,
+					"pitch": 0,
+					"yaw": 182,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "121304",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "t",
+					"x": 3224.393555,
+					"y": 147.542786,
+					"entityZ": 1628,
+					"pitch": 0,
+					"yaw": 182,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "121293",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "t",
+					"x": 3257.643555,
+					"y": 7.999992,
+					"entityZ": 1628,
+					"pitch": 0,
+					"yaw": 182,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "121294",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
 				}
 			]
 		},
 		"dust2": {
 			"vpkSha256": "51d6bb432b6553bfae6c38219a527c5de2464a2b107080f2b8be7d8427ebb885",
 			"spawns": [
+				{
+					"side": "ct",
+					"x": 136.842346,
+					"y": 2117.158936,
+					"entityZ": -109,
+					"pitch": 0,
+					"yaw": 112.499985,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:23488",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "ct",
+					"x": 153.576233,
+					"y": 2308.428223,
+					"entityZ": -109,
+					"pitch": 0,
+					"yaw": 294,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:23485",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
 				{
 					"side": "ct",
 					"x": 160.122742,
@@ -499,7 +1308,10 @@
 					"yaw": 23.999994,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:23491"
+					"hammerId": "2:23491",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "ct",
@@ -510,7 +1322,38 @@
 					"yaw": 356,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:23490"
+					"hammerId": "2:23490",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "ct",
+					"x": 217.633453,
+					"y": 2134.182129,
+					"entityZ": -109,
+					"pitch": 0,
+					"yaw": 139.999985,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:23487",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "ct",
+					"x": 222.911575,
+					"y": 2286.301025,
+					"entityZ": -109,
+					"pitch": 0,
+					"yaw": 266,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:23484",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "ct",
@@ -521,7 +1364,38 @@
 					"yaw": 292.5,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:23492"
+					"hammerId": "2:23492",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "ct",
+					"x": 264.453705,
+					"y": 2210.391602,
+					"entityZ": -109,
+					"pitch": 0,
+					"yaw": 202.5,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:23486",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "ct",
+					"x": 322.361481,
+					"y": 2165.008057,
+					"entityZ": -109,
+					"pitch": 0,
+					"yaw": 37.500004,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:23480",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "ct",
@@ -532,7 +1406,24 @@
 					"yaw": 229.999985,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:23493"
+					"hammerId": "2:23493",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "ct",
+					"x": 347.861938,
+					"y": 2250.738525,
+					"entityZ": -109,
+					"pitch": 0,
+					"yaw": 335,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:23481",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "ct",
@@ -543,7 +1434,52 @@
 					"yaw": 202.5,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:23494"
+					"hammerId": "2:23494",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "ct",
+					"x": 382.134918,
+					"y": 2102.437012,
+					"entityZ": -109,
+					"pitch": 0,
+					"yaw": 101,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:23478",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "ct",
+					"x": 421.494202,
+					"y": 2288.092285,
+					"entityZ": -109,
+					"pitch": 0,
+					"yaw": 307.5,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:23482",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "ct",
+					"x": 454.834656,
+					"y": 2099.009033,
+					"entityZ": -109,
+					"pitch": 0,
+					"yaw": 129,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:23479",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "t",
@@ -554,7 +1490,10 @@
 					"yaw": 42,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:23503"
+					"hammerId": "2:23503",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "t",
@@ -565,7 +1504,10 @@
 					"yaw": 111.999992,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:23502"
+					"hammerId": "2:23502",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "t",
@@ -576,7 +1518,10 @@
 					"yaw": 133.499985,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:23504"
+					"hammerId": "2:23504",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "t",
@@ -587,7 +1532,10 @@
 					"yaw": 183.000015,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:23505"
+					"hammerId": "2:23505",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "t",
@@ -598,7 +1546,10 @@
 					"yaw": 212.500015,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:23506"
+					"hammerId": "2:23506",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "t",
@@ -609,7 +1560,10 @@
 					"yaw": 37,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:23497"
+					"hammerId": "2:23497",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "t",
@@ -620,7 +1574,10 @@
 					"yaw": 106.999992,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:23496"
+					"hammerId": "2:23496",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "t",
@@ -631,7 +1588,10 @@
 					"yaw": 128.499969,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:23498"
+					"hammerId": "2:23498",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "t",
@@ -642,7 +1602,10 @@
 					"yaw": 178,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:23499"
+					"hammerId": "2:23499",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "t",
@@ -653,7 +1616,10 @@
 					"yaw": 207.500015,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:23500"
+					"hammerId": "2:23500",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "t",
@@ -664,7 +1630,10 @@
 					"yaw": 42,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:23509"
+					"hammerId": "2:23509",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "t",
@@ -675,7 +1644,10 @@
 					"yaw": 111.999992,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:23508"
+					"hammerId": "2:23508",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "t",
@@ -686,7 +1658,10 @@
 					"yaw": 133.499985,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:23510"
+					"hammerId": "2:23510",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "t",
@@ -697,7 +1672,10 @@
 					"yaw": 183.000015,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:23511"
+					"hammerId": "2:23511",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "t",
@@ -708,13 +1686,58 @@
 					"yaw": 212.500015,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:23512"
+					"hammerId": "2:23512",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				}
 			]
 		},
 		"inferno": {
 			"vpkSha256": "bfe3d8a996feb43962b11a51acd76068fd001f793fa750f7df5cf7d9d23a9d89",
 			"spawns": [
+				{
+					"side": "ct",
+					"x": 2270,
+					"y": 1831,
+					"entityZ": 140.843002,
+					"pitch": 0,
+					"yaw": 72.5,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "47",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "ct",
+					"x": 2272,
+					"y": 608,
+					"entityZ": 160,
+					"pitch": 0,
+					"yaw": 180.000015,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "252",
+					"competitive": false,
+					"enabled": false,
+					"targetname": "[PR#]spawnpoints.2v2"
+				},
+				{
+					"side": "ct",
+					"x": 2272,
+					"y": 672,
+					"entityZ": 160,
+					"pitch": 0,
+					"yaw": 180.000015,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "253",
+					"competitive": false,
+					"enabled": false,
+					"targetname": "[PR#]spawnpoints.2v2"
+				},
 				{
 					"side": "ct",
 					"x": 2292.060059,
@@ -724,7 +1747,66 @@
 					"yaw": 70,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "42"
+					"hammerId": "42",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "ct",
+					"x": 2296.679932,
+					"y": 2199.540039,
+					"entityZ": 140.843002,
+					"pitch": 0,
+					"yaw": 81,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "37",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "ct",
+					"x": 2336,
+					"y": 608,
+					"entityZ": 160,
+					"pitch": 0,
+					"yaw": 180.000015,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "255",
+					"competitive": false,
+					"enabled": false,
+					"targetname": "[PR#]spawnpoints.2v2"
+				},
+				{
+					"side": "ct",
+					"x": 2336,
+					"y": 672,
+					"entityZ": 160,
+					"pitch": 0,
+					"yaw": 180.000015,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "254",
+					"competitive": false,
+					"enabled": false,
+					"targetname": "[PR#]spawnpoints.2v2"
+				},
+				{
+					"side": "ct",
+					"x": 2342.830078,
+					"y": 1792.109985,
+					"entityZ": 140.843002,
+					"pitch": 0,
+					"yaw": 100,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "46",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "ct",
@@ -735,7 +1817,24 @@
 					"yaw": 97.5,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "41"
+					"hammerId": "41",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "ct",
+					"x": 2374.469971,
+					"y": 2171.850098,
+					"entityZ": 140.843002,
+					"pitch": 0,
+					"yaw": 108.5,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "36",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "ct",
@@ -746,7 +1845,66 @@
 					"yaw": 135,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "195"
+					"hammerId": "195",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "ct",
+					"x": 2417,
+					"y": 1824,
+					"entityZ": 140.843002,
+					"pitch": 0,
+					"yaw": 162.5,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "45",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "ct",
+					"x": 2420.98999,
+					"y": 1965.77002,
+					"entityZ": 140.843002,
+					"pitch": 0,
+					"yaw": 254,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "44",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "ct",
+					"x": 2436,
+					"y": 2355,
+					"entityZ": 140.843002,
+					"pitch": 0,
+					"yaw": 262.5,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "34",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "ct",
+					"x": 2438,
+					"y": 1900,
+					"entityZ": 140.843002,
+					"pitch": 0,
+					"yaw": 226,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "43",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "ct",
@@ -757,7 +1915,10 @@
 					"yaw": 251.5,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "39"
+					"hammerId": "39",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "ct",
@@ -768,7 +1929,38 @@
 					"yaw": 160,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "40"
+					"hammerId": "40",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "ct",
+					"x": 2479.320068,
+					"y": 2213.470215,
+					"entityZ": 140.843002,
+					"pitch": 0,
+					"yaw": 171,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "35",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "ct",
+					"x": 2483.560059,
+					"y": 2299.900146,
+					"entityZ": 140.843002,
+					"pitch": 0,
+					"yaw": 234.5,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "33",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "ct",
@@ -779,7 +1971,10 @@
 					"yaw": 223.5,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "38"
+					"hammerId": "38",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "t",
@@ -790,7 +1985,24 @@
 					"yaw": 48,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "21"
+					"hammerId": "21",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "t",
+					"x": -1668,
+					"y": 489,
+					"entityZ": -46,
+					"pitch": 0,
+					"yaw": 32.5,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "27",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "t",
@@ -801,7 +2013,10 @@
 					"yaw": 77.5,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "22"
+					"hammerId": "22",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "t",
@@ -812,7 +2027,80 @@
 					"yaw": 358.5,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "20"
+					"hammerId": "20",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "t",
+					"x": -1657,
+					"y": 544,
+					"entityZ": -46,
+					"pitch": 0,
+					"yaw": 3,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "26",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "t",
+					"x": -1650,
+					"y": 718,
+					"entityZ": -24,
+					"pitch": 0,
+					"yaw": 3,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "31",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "t",
+					"x": -1649,
+					"y": 641,
+					"entityZ": -24,
+					"pitch": 0,
+					"yaw": 32.5,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "32",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "t",
+					"x": -1603,
+					"y": 768,
+					"entityZ": -24,
+					"pitch": 0,
+					"yaw": 313.5,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "30",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "t",
+					"x": -1596,
+					"y": 579,
+					"entityZ": -46,
+					"pitch": 0,
+					"yaw": 313.5,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "25",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "t",
@@ -823,7 +2111,52 @@
 					"yaw": 337,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "18"
+					"hammerId": "18",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "t",
+					"x": -1579,
+					"y": 673,
+					"entityZ": -40,
+					"pitch": 0,
+					"yaw": 284.5,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "194",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "t",
+					"x": -1533,
+					"y": 745,
+					"entityZ": -24,
+					"pitch": 0,
+					"yaw": 292,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "28",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "t",
+					"x": -1531,
+					"y": 544,
+					"entityZ": -46,
+					"pitch": 0,
+					"yaw": 292,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "23",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "t",
@@ -834,13 +2167,184 @@
 					"yaw": 267,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "19"
+					"hammerId": "19",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "t",
+					"x": -1518,
+					"y": 624,
+					"entityZ": -24,
+					"pitch": 0,
+					"yaw": 222,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "29",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "t",
+					"x": -1491,
+					"y": 490,
+					"entityZ": -46,
+					"pitch": 0,
+					"yaw": 222,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "24",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "t",
+					"x": 508.699005,
+					"y": 544,
+					"entityZ": 128,
+					"pitch": 0,
+					"yaw": 0,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "258",
+					"competitive": false,
+					"enabled": false,
+					"targetname": "[PR#]spawnpoints.2v2"
+				},
+				{
+					"side": "t",
+					"x": 509,
+					"y": 605,
+					"entityZ": 128,
+					"pitch": 0,
+					"yaw": 0,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "259",
+					"competitive": false,
+					"enabled": false,
+					"targetname": "[PR#]spawnpoints.2v2"
+				},
+				{
+					"side": "t",
+					"x": 591.698975,
+					"y": 545,
+					"entityZ": 128,
+					"pitch": 0,
+					"yaw": 0,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "249",
+					"competitive": false,
+					"enabled": false,
+					"targetname": "[PR#]spawnpoints.2v2"
+				},
+				{
+					"side": "t",
+					"x": 592,
+					"y": 606,
+					"entityZ": 128,
+					"pitch": 0,
+					"yaw": 0,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "260",
+					"competitive": false,
+					"enabled": false,
+					"targetname": "[PR#]spawnpoints.2v2"
 				}
 			]
 		},
 		"mirage": {
 			"vpkSha256": "e66cdf1ae6a976f6f6ba510a2addd04b25a4c1cfd811f51f1ef13f0954e6e350",
 			"spawns": [
+				{
+					"side": "ct",
+					"x": -1976,
+					"y": -1812,
+					"entityZ": -272,
+					"pitch": 0,
+					"yaw": 0,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:60276",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "ct",
+					"x": -1972,
+					"y": -1988,
+					"entityZ": -264,
+					"pitch": 0,
+					"yaw": 0,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:60277",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "ct",
+					"x": -1957,
+					"y": -1898,
+					"entityZ": -262,
+					"pitch": 0,
+					"yaw": 0,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:60281",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "ct",
+					"x": -1902,
+					"y": -1976,
+					"entityZ": -240,
+					"pitch": 0,
+					"yaw": 0,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:60280",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "ct",
+					"x": -1902,
+					"y": -1816,
+					"entityZ": -240,
+					"pitch": 0,
+					"yaw": 0,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:60279",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "ct",
+					"x": -1830,
+					"y": -1896,
+					"entityZ": -240,
+					"pitch": 0,
+					"yaw": 0,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:60293",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
+				},
 				{
 					"side": "ct",
 					"x": -1776,
@@ -850,7 +2354,10 @@
 					"yaw": 331,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:60272"
+					"hammerId": "2:60272",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
 				},
 				{
 					"side": "ct",
@@ -861,7 +2368,10 @@
 					"yaw": 36,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:60278"
+					"hammerId": "2:60278",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
 				},
 				{
 					"side": "ct",
@@ -872,7 +2382,10 @@
 					"yaw": 50,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:60295"
+					"hammerId": "2:60295",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
 				},
 				{
 					"side": "ct",
@@ -883,7 +2396,10 @@
 					"yaw": 299,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:60297"
+					"hammerId": "2:60297",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
 				},
 				{
 					"side": "ct",
@@ -894,7 +2410,80 @@
 					"yaw": 94,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:60296"
+					"hammerId": "2:60296",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "ct",
+					"x": -1632,
+					"y": -2072,
+					"entityZ": -240,
+					"pitch": 0,
+					"yaw": 270,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:60282",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "ct",
+					"x": -1608,
+					"y": -1888,
+					"entityZ": -240,
+					"pitch": 0,
+					"yaw": 306,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:60284",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "ct",
+					"x": -1598,
+					"y": -1732,
+					"entityZ": -240,
+					"pitch": 0,
+					"yaw": 106,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:60283",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "ct",
+					"x": -1552,
+					"y": -1968,
+					"entityZ": -240,
+					"pitch": 0,
+					"yaw": 288,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:60312",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "ct",
+					"x": -1552,
+					"y": -1808,
+					"entityZ": -240,
+					"pitch": 0,
+					"yaw": 116,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:60294",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
 				},
 				{
 					"side": "t",
@@ -905,7 +2494,10 @@
 					"yaw": 270,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:60308"
+					"hammerId": "2:60308",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
 				},
 				{
 					"side": "t",
@@ -916,7 +2508,10 @@
 					"yaw": 270,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:60309"
+					"hammerId": "2:60309",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
 				},
 				{
 					"side": "t",
@@ -927,7 +2522,10 @@
 					"yaw": 90,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:60310"
+					"hammerId": "2:60310",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
 				},
 				{
 					"side": "t",
@@ -938,7 +2536,10 @@
 					"yaw": 90,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:60311"
+					"hammerId": "2:60311",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
 				},
 				{
 					"side": "t",
@@ -949,7 +2550,10 @@
 					"yaw": 270,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:60307"
+					"hammerId": "2:60307",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
 				},
 				{
 					"side": "t",
@@ -960,7 +2564,10 @@
 					"yaw": 270,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:60306"
+					"hammerId": "2:60306",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
 				},
 				{
 					"side": "t",
@@ -971,7 +2578,10 @@
 					"yaw": 90,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:60305"
+					"hammerId": "2:60305",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
 				},
 				{
 					"side": "t",
@@ -982,7 +2592,10 @@
 					"yaw": 90,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:60304"
+					"hammerId": "2:60304",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
 				},
 				{
 					"side": "t",
@@ -993,7 +2606,52 @@
 					"yaw": 227,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:60299"
+					"hammerId": "2:60299",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "t",
+					"x": 1296,
+					"y": -256,
+					"entityZ": -144,
+					"pitch": 0,
+					"yaw": 227,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:60300",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "t",
+					"x": 1296,
+					"y": -160,
+					"entityZ": -144,
+					"pitch": 0,
+					"yaw": 227,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:60301",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "t",
+					"x": 1296,
+					"y": -64,
+					"entityZ": -144,
+					"pitch": 0,
+					"yaw": 141,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:60302",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
 				},
 				{
 					"side": "t",
@@ -1004,13 +2662,240 @@
 					"yaw": 141,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:60303"
+					"hammerId": "2:60303",
+					"competitive": true,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "t",
+					"x": 1376,
+					"y": -304,
+					"entityZ": -144,
+					"pitch": 0,
+					"yaw": 227,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:60273",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "t",
+					"x": 1376,
+					"y": -208,
+					"entityZ": -144,
+					"pitch": 0,
+					"yaw": 227,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:60274",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "t",
+					"x": 1376,
+					"y": -112,
+					"entityZ": -144,
+					"pitch": 0,
+					"yaw": 141,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:60275",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
+				},
+				{
+					"side": "t",
+					"x": 1376,
+					"y": -16,
+					"entityZ": -144,
+					"pitch": 0,
+					"yaw": 141,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:60298",
+					"competitive": false,
+					"enabled": true,
+					"targetname": ""
 				}
 			]
 		},
 		"nuke": {
 			"vpkSha256": "ab56860b13c86ead3f0f17f1488e4cec44ac0208dbfdda9f1fecb5d5e769d4a7",
 			"spawns": [
+				{
+					"side": "ct",
+					"x": 748.059814,
+					"y": 71.994751,
+					"entityZ": -404,
+					"pitch": 0,
+					"yaw": 90.000038,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:61827",
+					"competitive": false,
+					"enabled": false,
+					"targetname": "[PR#]spawnpoints.2v2"
+				},
+				{
+					"side": "ct",
+					"x": 748.059814,
+					"y": 135.994751,
+					"entityZ": -404,
+					"pitch": 0,
+					"yaw": 90.000038,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:61828",
+					"competitive": false,
+					"enabled": false,
+					"targetname": "[PR#]spawnpoints.2v2"
+				},
+				{
+					"side": "ct",
+					"x": 812.059814,
+					"y": 71.994751,
+					"entityZ": -404,
+					"pitch": 0,
+					"yaw": 90.000038,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:61826",
+					"competitive": false,
+					"enabled": false,
+					"targetname": "[PR#]spawnpoints.2v2"
+				},
+				{
+					"side": "ct",
+					"x": 812.059814,
+					"y": 135.994751,
+					"entityZ": -404,
+					"pitch": 0,
+					"yaw": 90.000038,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:61829",
+					"competitive": false,
+					"enabled": false,
+					"targetname": "[PR#]spawnpoints.2v2"
+				},
+				{
+					"side": "ct",
+					"x": 2280,
+					"y": -496,
+					"entityZ": -335,
+					"pitch": 0,
+					"yaw": 117.5,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:47518",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "ct",
+					"x": 2280,
+					"y": -336,
+					"entityZ": -335,
+					"pitch": 0,
+					"yaw": 242.5,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:47515",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "ct",
+					"x": 2323,
+					"y": -411,
+					"entityZ": -335,
+					"pitch": 0,
+					"yaw": 181,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:47456",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "ct",
+					"x": 2343,
+					"y": -488,
+					"entityZ": -335,
+					"pitch": 0,
+					"yaw": 145,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:47517",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "ct",
+					"x": 2351,
+					"y": -352,
+					"entityZ": -335,
+					"pitch": 0,
+					"yaw": 230,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:47514",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "ct",
+					"x": 2399,
+					"y": -440,
+					"entityZ": -335,
+					"pitch": 0,
+					"yaw": 194.5,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:47516",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "ct",
+					"x": 2430.850098,
+					"y": -370.582001,
+					"entityZ": -335,
+					"pitch": 0,
+					"yaw": 218.5,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:47510",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "ct",
+					"x": 2440,
+					"y": -496,
+					"entityZ": -335,
+					"pitch": 0,
+					"yaw": 117.5,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:47513",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
 				{
 					"side": "ct",
 					"x": 2504,
@@ -1020,7 +2905,10 @@
 					"yaw": 271,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:47509"
+					"hammerId": "2:47509",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "ct",
@@ -1031,7 +2919,10 @@
 					"yaw": 145,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:47512"
+					"hammerId": "2:47512",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "ct",
@@ -1042,7 +2933,10 @@
 					"yaw": 207.5,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:47511"
+					"hammerId": "2:47511",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "ct",
@@ -1053,7 +2947,10 @@
 					"yaw": 161,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:47523"
+					"hammerId": "2:47523",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "ct",
@@ -1064,7 +2961,164 @@
 					"yaw": 200.5,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:47520"
+					"hammerId": "2:47520",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "ct",
+					"x": 2656,
+					"y": -360,
+					"entityZ": -335,
+					"pitch": 0,
+					"yaw": 204,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:47519",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "ct",
+					"x": 2664,
+					"y": -496,
+					"entityZ": -335,
+					"pitch": 0,
+					"yaw": 178,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:47522",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "ct",
+					"x": 2704,
+					"y": -416,
+					"entityZ": -335,
+					"pitch": 0,
+					"yaw": 207.5,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:47521",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "t",
+					"x": -2134,
+					"y": -1094,
+					"entityZ": -400.634003,
+					"pitch": 0,
+					"yaw": 36.5,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:47502",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "t",
+					"x": -2134,
+					"y": -968,
+					"entityZ": -400.634003,
+					"pitch": 0,
+					"yaw": 22,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:47499",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "t",
+					"x": -2097,
+					"y": -1033,
+					"entityZ": -400.634003,
+					"pitch": 0,
+					"yaw": 8.5,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:47501",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "t",
+					"x": -2072,
+					"y": -1097,
+					"entityZ": -400.634003,
+					"pitch": 0,
+					"yaw": 58,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:47503",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "t",
+					"x": -2072,
+					"y": -960,
+					"entityZ": -400.634003,
+					"pitch": 0,
+					"yaw": 312,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:47500",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "t",
+					"x": -2036.01001,
+					"y": -1038.109985,
+					"entityZ": -400.634003,
+					"pitch": 0,
+					"yaw": 15,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:47496",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "t",
+					"x": -2001.01001,
+					"y": -1099.109985,
+					"entityZ": -400.634003,
+					"pitch": 0,
+					"yaw": 55.5,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:47497",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "t",
+					"x": -2001.01001,
+					"y": -973.109985,
+					"entityZ": -400.634003,
+					"pitch": 0,
+					"yaw": 22,
+					"roll": 0,
+					"priority": 1,
+					"hammerId": "2:47494",
+					"competitive": false,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "t",
@@ -1075,7 +3129,10 @@
 					"yaw": 74.5,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:47498"
+					"hammerId": "2:47498",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "t",
@@ -1086,7 +3143,10 @@
 					"yaw": 312,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:47495"
+					"hammerId": "2:47495",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "t",
@@ -1097,7 +3157,10 @@
 					"yaw": 3,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:47506"
+					"hammerId": "2:47506",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "t",
@@ -1108,7 +3171,10 @@
 					"yaw": 294,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:47504"
+					"hammerId": "2:47504",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "t",
@@ -1119,7 +3185,10 @@
 					"yaw": 336,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:47507"
+					"hammerId": "2:47507",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "t",
@@ -1130,7 +3199,10 @@
 					"yaw": 40,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:47505"
+					"hammerId": "2:47505",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "t",
@@ -1141,7 +3213,10 @@
 					"yaw": 340,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:47508"
+					"hammerId": "2:47508",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
 				},
 				{
 					"side": "t",
@@ -1152,7 +3227,66 @@
 					"yaw": 329,
 					"roll": 0,
 					"priority": 0,
-					"hammerId": "2:47457"
+					"hammerId": "2:47457",
+					"competitive": true,
+					"enabled": true,
+					"targetname": "[PR#]spawnpoints.standard"
+				},
+				{
+					"side": "t",
+					"x": 1493.979492,
+					"y": -2115.966797,
+					"entityZ": -616,
+					"pitch": 0,
+					"yaw": 90,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:61820",
+					"competitive": false,
+					"enabled": false,
+					"targetname": "[PR#]spawnpoints.2v2"
+				},
+				{
+					"side": "t",
+					"x": 1494.979492,
+					"y": -2198.966797,
+					"entityZ": -616,
+					"pitch": 0,
+					"yaw": 90,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:61823",
+					"competitive": false,
+					"enabled": false,
+					"targetname": "[PR#]spawnpoints.2v2"
+				},
+				{
+					"side": "t",
+					"x": 1554.979492,
+					"y": -2116.267822,
+					"entityZ": -616,
+					"pitch": 0,
+					"yaw": 90,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:61821",
+					"competitive": false,
+					"enabled": false,
+					"targetname": "[PR#]spawnpoints.2v2"
+				},
+				{
+					"side": "t",
+					"x": 1555.979492,
+					"y": -2199.267822,
+					"entityZ": -616,
+					"pitch": 0,
+					"yaw": 90,
+					"roll": 0,
+					"priority": 0,
+					"hammerId": "2:61822",
+					"competitive": false,
+					"enabled": false,
+					"targetname": "[PR#]spawnpoints.2v2"
 				}
 			]
 		}
