@@ -11,9 +11,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 227,
-			"angleStatus": "map-entity",
-			"setpos": "setpos 1296.000000 -352.000000 -167.968750",
-			"setposSetang": "setpos 1296.000000 -352.000000 -167.968750; setang 0.000000 227.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos 1296 -352 -167.96875",
+			"setposSetang": "setpos 1296 -352 -167.96875; setang 0 227 0",
 			"url": "https://setpos.gg/mirage/t1"
 		},
 		{
@@ -26,9 +26,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 270,
-			"angleStatus": "map-entity",
-			"setpos": "setpos 1216.000000 -307.000000 -164.814819",
-			"setposSetang": "setpos 1216.000000 -307.000000 -164.814819; setang 0.000000 270.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos 1216 -307 -164.8148193359375",
+			"setposSetang": "setpos 1216 -307 -164.8148193359375; setang 0 270 0",
 			"url": "https://setpos.gg/mirage/t2"
 		},
 		{
@@ -41,10 +41,10 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 270,
-			"angleStatus": "map-entity",
-			"setpos": "setpos 1136.000000 -256.000000 -164.836548",
-			"setposSetang": "setpos 1136.000000 -256.000000 -164.836548; setang 0.000000 270.000000 0.000000",
-			"url": "https://setpos.gg/mirage/t3"
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos 1136 -256 -164.8365478515625",
+			"setposSetang": "setpos 1136 -256 -164.8365478515625; setang 0 270 0",
+			"url": null
 		},
 		{
 			"map": "mirage",
@@ -56,9 +56,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 270,
-			"angleStatus": "map-entity",
-			"setpos": "setpos 1216.000000 -211.000000 -163.968750",
-			"setposSetang": "setpos 1216.000000 -211.000000 -163.968750; setang 0.000000 270.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos 1216 -211 -163.96875",
+			"setposSetang": "setpos 1216 -211 -163.96875; setang 0 270 0",
 			"url": "https://setpos.gg/mirage/t4"
 		},
 		{
@@ -71,10 +71,10 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 270,
-			"angleStatus": "map-entity",
-			"setpos": "setpos 1136.000000 -160.000000 -164.430542",
-			"setposSetang": "setpos 1136.000000 -160.000000 -164.430542; setang 0.000000 270.000000 0.000000",
-			"url": "https://setpos.gg/mirage/t5"
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos 1136 -160 -164.4305419921875",
+			"setposSetang": "setpos 1136 -160 -164.4305419921875; setang 0 270 0",
+			"url": null
 		},
 		{
 			"map": "mirage",
@@ -86,9 +86,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 90,
-			"angleStatus": "map-entity",
-			"setpos": "setpos 1216.000000 -115.000000 -163.968750",
-			"setposSetang": "setpos 1216.000000 -115.000000 -163.968750; setang 0.000000 90.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos 1216 -115 -163.96875",
+			"setposSetang": "setpos 1216 -115 -163.96875; setang 0 90 0",
 			"url": "https://setpos.gg/mirage/t6"
 		},
 		{
@@ -101,10 +101,10 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 90,
-			"angleStatus": "map-entity",
-			"setpos": "setpos 1136.000000 -64.000000 -164.499146",
-			"setposSetang": "setpos 1136.000000 -64.000000 -164.499146; setang 0.000000 90.000000 0.000000",
-			"url": "https://setpos.gg/mirage/t7"
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos 1136 -64 -164.4991455078125",
+			"setposSetang": "setpos 1136 -64 -164.4991455078125; setang 0 90 0",
+			"url": null
 		},
 		{
 			"map": "mirage",
@@ -116,9 +116,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 90,
-			"angleStatus": "map-entity",
-			"setpos": "setpos 1216.000000 -16.000000 -163.968750",
-			"setposSetang": "setpos 1216.000000 -16.000000 -163.968750; setang 0.000000 90.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos 1216 -16 -163.96875",
+			"setposSetang": "setpos 1216 -16 -163.96875; setang 0 90 0",
 			"url": "https://setpos.gg/mirage/t8"
 		},
 		{
@@ -131,9 +131,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 90,
-			"angleStatus": "map-entity",
-			"setpos": "setpos 1136.000000 32.000000 -164.788452",
-			"setposSetang": "setpos 1136.000000 32.000000 -164.788452; setang 0.000000 90.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos 1136 32 -164.7884521484375",
+			"setposSetang": "setpos 1136 32 -164.7884521484375; setang 0 90 0",
 			"url": "https://setpos.gg/mirage/t9"
 		},
 		{
@@ -146,9 +146,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 141,
-			"angleStatus": "map-entity",
-			"setpos": "setpos 1296.000000 32.000000 -167.968750",
-			"setposSetang": "setpos 1296.000000 32.000000 -167.968750; setang 0.000000 141.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos 1296 32 -167.96875",
+			"setposSetang": "setpos 1296 32 -167.96875; setang 0 141 0",
 			"url": "https://setpos.gg/mirage/t10"
 		},
 		{
@@ -161,10 +161,10 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 94,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -1656.000000 -1800.000000 -267.206421",
-			"setposSetang": "setpos -1656.000000 -1800.000000 -267.206421; setang 0.000000 94.000000 0.000000",
-			"url": "https://setpos.gg/mirage/ct1"
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -1656 -1800 -267.2064208984375",
+			"setposSetang": "setpos -1656 -1800 -267.2064208984375; setang 0 94 0",
+			"url": null
 		},
 		{
 			"map": "mirage",
@@ -176,10 +176,10 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 36,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -1776.000000 -1800.000000 -263.968750",
-			"setposSetang": "setpos -1776.000000 -1800.000000 -263.968750; setang 0.000000 36.000000 0.000000",
-			"url": "https://setpos.gg/mirage/ct2"
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -1776 -1800 -263.96875",
+			"setposSetang": "setpos -1776 -1800 -263.96875; setang 0 36 0",
+			"url": null
 		},
 		{
 			"map": "mirage",
@@ -191,10 +191,10 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 50,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -1720.000000 -1896.000000 -267.602295",
-			"setposSetang": "setpos -1720.000000 -1896.000000 -267.602295; setang 0.000000 50.000000 0.000000",
-			"url": "https://setpos.gg/mirage/ct3"
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -1720 -1896 -267.602294921875",
+			"setposSetang": "setpos -1720 -1896 -267.602294921875; setang 0 50 0",
+			"url": null
 		},
 		{
 			"map": "mirage",
@@ -206,10 +206,10 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 299,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -1656.000000 -1976.000000 -267.458313",
-			"setposSetang": "setpos -1656.000000 -1976.000000 -267.458313; setang 0.000000 299.000000 0.000000",
-			"url": "https://setpos.gg/mirage/ct4"
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -1656 -1976 -267.45831298828125",
+			"setposSetang": "setpos -1656 -1976 -267.45831298828125; setang 0 299 0",
+			"url": null
 		},
 		{
 			"map": "mirage",
@@ -221,9 +221,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 331,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -1776.000000 -1976.000000 -263.968750",
-			"setposSetang": "setpos -1776.000000 -1976.000000 -263.968750; setang 0.000000 331.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -1776 -1976 -263.96875",
+			"setposSetang": "setpos -1776 -1976 -263.96875; setang 0 331 0",
 			"url": "https://setpos.gg/mirage/ct5"
 		},
 		{
@@ -236,9 +236,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 42,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -1181.000000 -754.000000 120.181252",
-			"setposSetang": "setpos -1181.000000 -754.000000 120.181252; setang 0.000000 42.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -1181 -754 120.1812515258789",
+			"setposSetang": "setpos -1181 -754 120.1812515258789; setang 0 42 0",
 			"url": "https://setpos.gg/dust2/t1"
 		},
 		{
@@ -249,12 +249,12 @@
 			"y": -808,
 			"z": 116.68598937988281,
 			"zStatus": "observed-feet",
-			"pitch": 0,
-			"yaw": 112,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -1141.000000 -808.000000 116.685989",
-			"setposSetang": "setpos -1141.000000 -808.000000 116.685989; setang 0.000000 112.000000 0.000000",
-			"url": "https://setpos.gg/dust2/t2"
+			"pitch": null,
+			"yaw": null,
+			"angleStatus": "unverified",
+			"setpos": "setpos -1141 -808 116.68598937988281",
+			"setposSetang": null,
+			"url": null
 		},
 		{
 			"map": "dust2",
@@ -266,9 +266,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 133.5,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -1076.000000 -843.000000 116.789474",
-			"setposSetang": "setpos -1076.000000 -843.000000 116.789474; setang 0.000000 133.500000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -1076 -843 116.78947448730469",
+			"setposSetang": "setpos -1076 -843 116.78947448730469; setang 0 133.5 0",
 			"url": "https://setpos.gg/dust2/t3"
 		},
 		{
@@ -279,12 +279,12 @@
 			"y": -808,
 			"z": 116.0826187133789,
 			"zStatus": "observed-feet",
-			"pitch": 0,
-			"yaw": 183,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -1015.000000 -808.000000 116.082619",
-			"setposSetang": "setpos -1015.000000 -808.000000 116.082619; setang 0.000000 183.000000 0.000000",
-			"url": "https://setpos.gg/dust2/t4"
+			"pitch": null,
+			"yaw": null,
+			"angleStatus": "unverified",
+			"setpos": "setpos -1015 -808 116.0826187133789",
+			"setposSetang": null,
+			"url": null
 		},
 		{
 			"map": "dust2",
@@ -294,12 +294,12 @@
 			"y": -754,
 			"z": 120.18126678466797,
 			"zStatus": "observed-feet",
-			"pitch": 0,
-			"yaw": 212.5,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -980.000000 -754.000000 120.181267",
-			"setposSetang": "setpos -980.000000 -754.000000 120.181267; setang 0.000000 212.500000 0.000000",
-			"url": "https://setpos.gg/dust2/t5"
+			"pitch": null,
+			"yaw": null,
+			"angleStatus": "unverified",
+			"setpos": "setpos -980 -754 120.18126678466797",
+			"setposSetang": null,
+			"url": null
 		},
 		{
 			"map": "dust2",
@@ -311,10 +311,10 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 37,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -857.506531 -738.361328 122.089119",
-			"setposSetang": "setpos -857.506531 -738.361328 122.089119; setang 0.000000 37.000000 0.000000",
-			"url": "https://setpos.gg/dust2/t6"
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -857.5065307617188 -738.361328125 122.08911895751953",
+			"setposSetang": "setpos -857.5065307617188 -738.361328125 122.08911895751953; setang 0 37 0",
+			"url": null
 		},
 		{
 			"map": "dust2",
@@ -326,10 +326,10 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 107,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -822.365173 -795.642090 117.264000",
-			"setposSetang": "setpos -822.365173 -795.642090 117.264000; setang 0.000000 107.000000 0.000000",
-			"url": "https://setpos.gg/dust2/t7"
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -822.3651733398438 -795.64208984375 117.26399993896484",
+			"setposSetang": "setpos -822.3651733398438 -795.64208984375 117.26399993896484; setang 0 107 0",
+			"url": null
 		},
 		{
 			"map": "dust2",
@@ -341,10 +341,10 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 128.5,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -760.662964 -836.174011 117.071777",
-			"setposSetang": "setpos -760.662964 -836.174011 117.071777; setang 0.000000 128.500000 0.000000",
-			"url": "https://setpos.gg/dust2/t8"
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -760.6629638671875 -836.1740112304688 117.07177734375",
+			"setposSetang": "setpos -760.6629638671875 -836.1740112304688 117.07177734375; setang 0 128.5 0",
+			"url": null
 		},
 		{
 			"map": "dust2",
@@ -356,10 +356,10 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 178,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -696.844604 -806.623718 116.708214",
-			"setposSetang": "setpos -696.844604 -806.623718 116.708214; setang 0.000000 178.000000 0.000000",
-			"url": "https://setpos.gg/dust2/t9"
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -696.8446044921875 -806.6237182617188 116.70821380615234",
+			"setposSetang": "setpos -696.8446044921875 -806.6237182617188 116.70821380615234; setang 0 178 0",
+			"url": null
 		},
 		{
 			"map": "dust2",
@@ -371,10 +371,10 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 207.5,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -657.271362 -755.879639 119.884018",
-			"setposSetang": "setpos -657.271362 -755.879639 119.884018; setang 0.000000 207.500000 0.000000",
-			"url": "https://setpos.gg/dust2/t10"
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -657.2713623046875 -755.879638671875 119.88401794433594",
+			"setposSetang": "setpos -657.2713623046875 -755.879638671875 119.88401794433594; setang 0 207.5 0",
+			"url": null
 		},
 		{
 			"map": "dust2",
@@ -386,9 +386,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 42,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -533.000000 -754.000000 113.848991",
-			"setposSetang": "setpos -533.000000 -754.000000 113.848991; setang 0.000000 42.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -533 -754 113.84899139404297",
+			"setposSetang": "setpos -533 -754 113.84899139404297; setang 0 42 0",
 			"url": "https://setpos.gg/dust2/t11"
 		},
 		{
@@ -401,9 +401,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 112,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -493.000000 -808.000000 108.563377",
-			"setposSetang": "setpos -493.000000 -808.000000 108.563377; setang 0.000000 112.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -493 -808 108.5633773803711",
+			"setposSetang": "setpos -493 -808 108.5633773803711; setang 0 112 0",
 			"url": "https://setpos.gg/dust2/t12"
 		},
 		{
@@ -416,9 +416,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 133.5,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -428.000000 -843.000000 95.296280",
-			"setposSetang": "setpos -428.000000 -843.000000 95.296280; setang 0.000000 133.500000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -428 -843 95.29627990722656",
+			"setposSetang": "setpos -428 -843 95.29627990722656; setang 0 133.5 0",
 			"url": "https://setpos.gg/dust2/t13"
 		},
 		{
@@ -431,9 +431,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 183,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -367.000000 -808.000000 83.744965",
-			"setposSetang": "setpos -367.000000 -808.000000 83.744965; setang 0.000000 183.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -367 -808 83.74496459960938",
+			"setposSetang": "setpos -367 -808 83.74496459960938; setang 0 183 0",
 			"url": "https://setpos.gg/dust2/t14"
 		},
 		{
@@ -446,9 +446,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 212.5,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -332.000000 -754.000000 78.877106",
-			"setposSetang": "setpos -332.000000 -754.000000 78.877106; setang 0.000000 212.500000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -332 -754 78.87710571289062",
+			"setposSetang": "setpos -332 -754 78.87710571289062; setang 0 212.5 0",
 			"url": "https://setpos.gg/dust2/t15"
 		},
 		{
@@ -461,9 +461,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 202.5,
-			"angleStatus": "map-entity",
-			"setpos": "setpos 351.392120 2352.942383 -120.474915",
-			"setposSetang": "setpos 351.392120 2352.942383 -120.474915; setang 0.000000 202.500000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos 351.3921203613281 2352.9423828125 -120.47491455078125",
+			"setposSetang": "setpos 351.3921203613281 2352.9423828125 -120.47491455078125; setang 0 202.5 0",
 			"url": "https://setpos.gg/dust2/ct1"
 		},
 		{
@@ -476,9 +476,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 230,
-			"angleStatus": "map-entity",
-			"setpos": "setpos 334.368744 2433.733643 -120.362549",
-			"setposSetang": "setpos 334.368744 2433.733643 -120.362549; setang 0.000000 230.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos 334.3687438964844 2433.733642578125 -120.362548828125",
+			"setposSetang": "setpos 334.3687438964844 2433.733642578125 -120.362548828125; setang 0 230 0",
 			"url": "https://setpos.gg/dust2/ct2"
 		},
 		{
@@ -491,9 +491,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 292.5,
-			"angleStatus": "map-entity",
-			"setpos": "setpos 258.159393 2480.553711 -121.076660",
-			"setposSetang": "setpos 258.159393 2480.553711 -121.076660; setang 0.000000 292.500000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos 258.1593933105469 2480.5537109375 -121.07666015625",
+			"setposSetang": "setpos 258.1593933105469 2480.5537109375 -121.07666015625; setang 0 292.5 0",
 			"url": "https://setpos.gg/dust2/ct3"
 		},
 		{
@@ -506,9 +506,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 356,
-			"angleStatus": "map-entity",
-			"setpos": "setpos 182.249908 2439.011719 -120.968750",
-			"setposSetang": "setpos 182.249908 2439.011719 -120.968750; setang 0.000000 356.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos 182.24990844726562 2439.01171875 -120.96875",
+			"setposSetang": "setpos 182.24990844726562 2439.01171875 -120.96875; setang 0 356 0",
 			"url": "https://setpos.gg/dust2/ct4"
 		},
 		{
@@ -521,9 +521,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 24,
-			"angleStatus": "map-entity",
-			"setpos": "setpos 160.122742 2369.676270 -119.918701",
-			"setposSetang": "setpos 160.122742 2369.676270 -119.918701; setang 0.000000 24.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos 160.12274169921875 2369.67626953125 -119.918701171875",
+			"setposSetang": "setpos 160.12274169921875 2369.67626953125 -119.918701171875; setang 0 24 0",
 			"url": "https://setpos.gg/dust2/ct5"
 		},
 		{
@@ -536,9 +536,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 150,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -416.000000 -1608.000000 2.031250",
-			"setposSetang": "setpos -416.000000 -1608.000000 2.031250; setang 0.000000 150.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -416 -1608 2.031249523162842",
+			"setposSetang": "setpos -416 -1608 2.031249523162842; setang 0 150 0",
 			"url": "https://setpos.gg/anubis/t1"
 		},
 		{
@@ -551,9 +551,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 135,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -416.000000 -1696.000000 2.031250",
-			"setposSetang": "setpos -416.000000 -1696.000000 2.031250; setang 0.000000 135.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -416 -1696 2.031249523162842",
+			"setposSetang": "setpos -416 -1696 2.031249523162842; setang 0 135 0",
 			"url": "https://setpos.gg/anubis/t2"
 		},
 		{
@@ -566,9 +566,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 165,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -384.000000 -1552.000000 -11.968750",
-			"setposSetang": "setpos -384.000000 -1552.000000 -11.968750; setang 0.000000 165.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -384 -1552 -11.96875",
+			"setposSetang": "setpos -384 -1552 -11.96875; setang 0 165 0",
 			"url": "https://setpos.gg/anubis/t3"
 		},
 		{
@@ -581,9 +581,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 150,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -328.000000 -1528.000000 -11.968750",
-			"setposSetang": "setpos -328.000000 -1528.000000 -11.968750; setang 0.000000 150.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -328 -1528 -11.96875",
+			"setposSetang": "setpos -328 -1528 -11.96875; setang 0 150 0",
 			"url": "https://setpos.gg/anubis/t4"
 		},
 		{
@@ -596,9 +596,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 135,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -304.000000 -1608.000000 -11.968750",
-			"setposSetang": "setpos -304.000000 -1608.000000 -11.968750; setang 0.000000 135.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -304 -1608 -11.96875",
+			"setposSetang": "setpos -304 -1608 -11.96875; setang 0 135 0",
 			"url": "https://setpos.gg/anubis/t5"
 		},
 		{
@@ -611,9 +611,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 90,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -264.000000 -1560.000000 -11.968750",
-			"setposSetang": "setpos -264.000000 -1560.000000 -11.968750; setang 0.000000 90.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -264 -1560 -11.96875",
+			"setposSetang": "setpos -264 -1560 -11.96875; setang 0 90 0",
 			"url": "https://setpos.gg/anubis/t6"
 		},
 		{
@@ -626,9 +626,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 45,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -234.000000 -1503.079956 -11.968750",
-			"setposSetang": "setpos -234.000000 -1503.079956 -11.968750; setang 0.000000 45.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -234 -1503.0799560546875 -11.96875",
+			"setposSetang": "setpos -234 -1503.0799560546875 -11.96875; setang 0 45 0",
 			"url": "https://setpos.gg/anubis/t7"
 		},
 		{
@@ -641,9 +641,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 90,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -192.000000 -1608.000000 -11.968750",
-			"setposSetang": "setpos -192.000000 -1608.000000 -11.968750; setang 0.000000 90.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -192 -1608 -11.96875",
+			"setposSetang": "setpos -192 -1608 -11.96875; setang 0 90 0",
 			"url": "https://setpos.gg/anubis/t8"
 		},
 		{
@@ -656,9 +656,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 30,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -154.000000 -1503.079956 -11.968750",
-			"setposSetang": "setpos -154.000000 -1503.079956 -11.968750; setang 0.000000 30.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -154 -1503.0799560546875 -11.96875",
+			"setposSetang": "setpos -154 -1503.0799560546875 -11.96875; setang 0 30 0",
 			"url": "https://setpos.gg/anubis/t9"
 		},
 		{
@@ -671,9 +671,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 60,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -144.000000 -1568.000000 -11.968750",
-			"setposSetang": "setpos -144.000000 -1568.000000 -11.968750; setang 0.000000 60.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -144 -1568 -11.96875",
+			"setposSetang": "setpos -144 -1568 -11.96875; setang 0 60 0",
 			"url": "https://setpos.gg/anubis/t10"
 		},
 		{
@@ -686,9 +686,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 45,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -128.004028 -1632.000000 -0.960938",
-			"setposSetang": "setpos -128.004028 -1632.000000 -0.960938; setang 0.000000 45.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -128.0040283203125 -1632 -0.9609375",
+			"setposSetang": "setpos -128.0040283203125 -1632 -0.9609375; setang 0 45 0",
 			"url": "https://setpos.gg/anubis/t11"
 		},
 		{
@@ -701,10 +701,10 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 225,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -360.000000 2120.000000 16.056593",
-			"setposSetang": "setpos -360.000000 2120.000000 16.056593; setang 0.000000 225.000000 0.000000",
-			"url": "https://setpos.gg/anubis/ct1"
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -360 2120 16.05659294128418",
+			"setposSetang": "setpos -360 2120 16.05659294128418; setang 0 225 0",
+			"url": null
 		},
 		{
 			"map": "anubis",
@@ -716,9 +716,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 240,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -400.000000 2192.000000 25.031252",
-			"setposSetang": "setpos -400.000000 2192.000000 25.031252; setang 0.000000 240.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -400 2192 25.031251907348633",
+			"setposSetang": "setpos -400 2192 25.031251907348633; setang 0 240 0",
 			"url": "https://setpos.gg/anubis/ct2"
 		},
 		{
@@ -731,9 +731,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 270,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -476.000000 2216.000000 25.031252",
-			"setposSetang": "setpos -476.000000 2216.000000 25.031252; setang 0.000000 270.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -476 2216 25.031251907348633",
+			"setposSetang": "setpos -476 2216 25.031251907348633; setang 0 270 0",
 			"url": "https://setpos.gg/anubis/ct3"
 		},
 		{
@@ -746,9 +746,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 285,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -560.000000 2192.000000 25.031252",
-			"setposSetang": "setpos -560.000000 2192.000000 25.031252; setang 0.000000 285.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -560 2192 25.031251907348633",
+			"setposSetang": "setpos -560 2192 25.031251907348633; setang 0 285 0",
 			"url": "https://setpos.gg/anubis/ct4"
 		},
 		{
@@ -761,9 +761,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 315,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -608.000000 2120.000000 16.056595",
-			"setposSetang": "setpos -608.000000 2120.000000 16.056595; setang 0.000000 315.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -608 2120 16.056594848632812",
+			"setposSetang": "setpos -608 2120 16.056594848632812; setang 0 315 0",
 			"url": "https://setpos.gg/anubis/ct5"
 		},
 		{
@@ -776,10 +776,10 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 267,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -1520.060059 430.890991 -63.968750",
-			"setposSetang": "setpos -1520.060059 430.890991 -63.968750; setang 0.000000 267.000000 0.000000",
-			"url": "https://setpos.gg/inferno/t1"
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -1520.06005859375 430.8909912109375 -63.96875",
+			"setposSetang": "setpos -1520.06005859375 430.8909912109375 -63.96875; setang 0 267 0",
+			"url": null
 		},
 		{
 			"map": "inferno",
@@ -791,10 +791,10 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 337,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -1586.520020 440.790009 -63.968750",
-			"setposSetang": "setpos -1586.520020 440.790009 -63.968750; setang 0.000000 337.000000 0.000000",
-			"url": "https://setpos.gg/inferno/t2"
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -1586.52001953125 440.7900085449219 -63.96875",
+			"setposSetang": "setpos -1586.52001953125 440.7900085449219 -63.96875; setang 0 337 0",
+			"url": null
 		},
 		{
 			"map": "inferno",
@@ -806,10 +806,10 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 358.5,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -1657.229980 419.576996 -63.968750",
-			"setposSetang": "setpos -1657.229980 419.576996 -63.968750; setang 0.000000 358.500000 0.000000",
-			"url": "https://setpos.gg/inferno/t3"
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -1657.22998046875 419.5769958496094 -63.96875",
+			"setposSetang": "setpos -1657.22998046875 419.5769958496094 -63.96875; setang 0 358.5 0",
+			"url": null
 		},
 		{
 			"map": "inferno",
@@ -821,10 +821,10 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 48,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -1675.619995 351.695007 -63.968750",
-			"setposSetang": "setpos -1675.619995 351.695007 -63.968750; setang 0.000000 48.000000 0.000000",
-			"url": "https://setpos.gg/inferno/t4"
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -1675.6199951171875 351.69500732421875 -63.96875",
+			"setposSetang": "setpos -1675.6199951171875 351.69500732421875 -63.96875; setang 0 48 0",
+			"url": null
 		},
 		{
 			"map": "inferno",
@@ -836,10 +836,10 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 77.5,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -1662.180054 288.761993 -63.968750",
-			"setposSetang": "setpos -1662.180054 288.761993 -63.968750; setang 0.000000 77.500000 0.000000",
-			"url": "https://setpos.gg/inferno/t5"
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -1662.1800537109375 288.7619934082031 -63.96875",
+			"setposSetang": "setpos -1662.1800537109375 288.7619934082031 -63.96875; setang 0 77.5 0",
+			"url": null
 		},
 		{
 			"map": "inferno",
@@ -851,9 +851,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 70,
-			"angleStatus": "map-entity",
-			"setpos": "setpos 2292.060059 2027.689941 135.956955",
-			"setposSetang": "setpos 2292.060059 2027.689941 135.956955; setang 0.000000 70.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos 2292.06005859375 2027.68994140625 135.9569549560547",
+			"setposSetang": "setpos 2292.06005859375 2027.68994140625 135.9569549560547; setang 0 70 0",
 			"url": "https://setpos.gg/inferno/ct1"
 		},
 		{
@@ -866,9 +866,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 97.5,
-			"angleStatus": "map-entity",
-			"setpos": "setpos 2353.000000 1977.000000 135.518875",
-			"setposSetang": "setpos 2353.000000 1977.000000 135.518875; setang 0.000000 97.500000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos 2353 1977 135.5188751220703",
+			"setposSetang": "setpos 2353 1977 135.5188751220703; setang 0 97.5 0",
 			"url": "https://setpos.gg/inferno/ct2"
 		},
 		{
@@ -881,9 +881,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 135,
-			"angleStatus": "map-entity",
-			"setpos": "setpos 2397.000000 2079.000000 132.767548",
-			"setposSetang": "setpos 2397.000000 2079.000000 132.767548; setang 0.000000 135.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos 2397 2079 132.76754760742188",
+			"setposSetang": "setpos 2397 2079 132.76754760742188; setang 0 135 0",
 			"url": "https://setpos.gg/inferno/ct3"
 		},
 		{
@@ -896,9 +896,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 160,
-			"angleStatus": "map-entity",
-			"setpos": "setpos 2472.349854 2005.969971 134.505051",
-			"setposSetang": "setpos 2472.349854 2005.969971 134.505051; setang 0.000000 160.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos 2472.349853515625 2005.969970703125 134.5050506591797",
+			"setposSetang": "setpos 2472.349853515625 2005.969970703125 134.5050506591797; setang 0 160 0",
 			"url": "https://setpos.gg/inferno/ct4"
 		},
 		{
@@ -911,9 +911,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 223.5,
-			"angleStatus": "map-entity",
-			"setpos": "setpos 2493.000000 2090.000000 132.551376",
-			"setposSetang": "setpos 2493.000000 2090.000000 132.551376; setang 0.000000 223.500000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos 2493 2090 132.55137634277344",
+			"setposSetang": "setpos 2493 2090 132.55137634277344; setang 0 223.5 0",
 			"url": "https://setpos.gg/inferno/ct5"
 		},
 		{
@@ -926,9 +926,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 251.5,
-			"angleStatus": "map-entity",
-			"setpos": "setpos 2456.830078 2153.159912 132.077179",
-			"setposSetang": "setpos 2456.830078 2153.159912 132.077179; setang 0.000000 251.500000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos 2456.830078125 2153.159912109375 132.07717895507812",
+			"setposSetang": "setpos 2456.830078125 2153.159912109375 132.07717895507812; setang 0 251.5 0",
 			"url": "https://setpos.gg/inferno/ct6"
 		},
 		{
@@ -941,9 +941,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 90,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -584.000000 -2288.000000 -162.422363",
-			"setposSetang": "setpos -584.000000 -2288.000000 -162.422363; setang 0.000000 90.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -584 -2288 -162.42236328125",
+			"setposSetang": "setpos -584 -2288 -162.42236328125; setang 0 90 0",
 			"url": "https://setpos.gg/ancient/t1"
 		},
 		{
@@ -956,9 +956,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 90,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -520.000000 -2224.000000 -163.255737",
-			"setposSetang": "setpos -520.000000 -2224.000000 -163.255737; setang 0.000000 90.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -520 -2224 -163.2557373046875",
+			"setposSetang": "setpos -520 -2224 -163.2557373046875; setang 0 90 0",
 			"url": "https://setpos.gg/ancient/t2"
 		},
 		{
@@ -971,9 +971,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 90,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -456.000000 -2288.000000 -163.255737",
-			"setposSetang": "setpos -456.000000 -2288.000000 -163.255737; setang 0.000000 90.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -456 -2288 -163.2557373046875",
+			"setposSetang": "setpos -456 -2288 -163.2557373046875; setang 0 90 0",
 			"url": "https://setpos.gg/ancient/t3"
 		},
 		{
@@ -986,9 +986,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 90,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -392.000000 -2224.000000 -163.255737",
-			"setposSetang": "setpos -392.000000 -2224.000000 -163.255737; setang 0.000000 90.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -392 -2224 -163.2557373046875",
+			"setposSetang": "setpos -392 -2224 -163.2557373046875; setang 0 90 0",
 			"url": "https://setpos.gg/ancient/t4"
 		},
 		{
@@ -1001,9 +1001,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 90,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -328.000000 -2288.000000 -163.255737",
-			"setposSetang": "setpos -328.000000 -2288.000000 -163.255737; setang 0.000000 90.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -328 -2288 -163.2557373046875",
+			"setposSetang": "setpos -328 -2288 -163.2557373046875; setang 0 90 0",
 			"url": "https://setpos.gg/ancient/t5"
 		},
 		{
@@ -1016,9 +1016,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 270,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -192.000000 1696.000000 26.053045",
-			"setposSetang": "setpos -192.000000 1696.000000 26.053045; setang 0.000000 270.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -192 1696 26.05304527282715",
+			"setposSetang": "setpos -192 1696 26.05304527282715; setang 0 270 0",
 			"url": "https://setpos.gg/ancient/ct1"
 		},
 		{
@@ -1031,9 +1031,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 270,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -256.000000 1728.000000 25.602571",
-			"setposSetang": "setpos -256.000000 1728.000000 25.602571; setang 0.000000 270.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -256 1728 25.602571487426758",
+			"setposSetang": "setpos -256 1728 25.602571487426758; setang 0 270 0",
 			"url": "https://setpos.gg/ancient/ct2"
 		},
 		{
@@ -1046,9 +1046,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 270,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -352.000000 1728.000000 28.813293",
-			"setposSetang": "setpos -352.000000 1728.000000 28.813293; setang 0.000000 270.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -352 1728 28.81329345703125",
+			"setposSetang": "setpos -352 1728 28.81329345703125; setang 0 270 0",
 			"url": "https://setpos.gg/ancient/ct3"
 		},
 		{
@@ -1061,9 +1061,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 270,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -448.000000 1728.000000 30.739708",
-			"setposSetang": "setpos -448.000000 1728.000000 30.739708; setang 0.000000 270.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -448 1728 30.739707946777344",
+			"setposSetang": "setpos -448 1728 30.739707946777344; setang 0 270 0",
 			"url": "https://setpos.gg/ancient/ct4"
 		},
 		{
@@ -1076,9 +1076,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 270,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -512.000000 1696.000000 26.837196",
-			"setposSetang": "setpos -512.000000 1696.000000 26.837196; setang 0.000000 270.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -512 1696 26.837196350097656",
+			"setposSetang": "setpos -512 1696 26.837196350097656; setang 0 270 0",
 			"url": "https://setpos.gg/ancient/ct5"
 		},
 		{
@@ -1091,9 +1091,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 312,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -1947.010010 -965.109985 -415.968750",
-			"setposSetang": "setpos -1947.010010 -965.109985 -415.968750; setang 0.000000 312.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -1947.010009765625 -965.1099853515625 -415.96875",
+			"setposSetang": "setpos -1947.010009765625 -965.1099853515625 -415.96875; setang 0 312 0",
 			"url": "https://setpos.gg/nuke/t1"
 		},
 		{
@@ -1106,10 +1106,10 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 294,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -1878.000000 -980.000000 -415.968750",
-			"setposSetang": "setpos -1878.000000 -980.000000 -415.968750; setang 0.000000 294.000000 0.000000",
-			"url": "https://setpos.gg/nuke/t2"
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -1878 -980 -415.96875",
+			"setposSetang": "setpos -1878 -980 -415.96875; setang 0 294 0",
+			"url": null
 		},
 		{
 			"map": "nuke",
@@ -1121,9 +1121,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 329,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -1808.000000 -1025.000000 -415.968750",
-			"setposSetang": "setpos -1808.000000 -1025.000000 -415.968750; setang 0.000000 329.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -1808 -1025 -415.96875",
+			"setposSetang": "setpos -1808 -1025 -415.96875; setang 0 329 0",
 			"url": "https://setpos.gg/nuke/t3"
 		},
 		{
@@ -1136,9 +1136,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 3,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -1929.000000 -1025.000000 -415.968750",
-			"setposSetang": "setpos -1929.000000 -1025.000000 -415.968750; setang 0.000000 3.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -1929 -1025 -415.96875",
+			"setposSetang": "setpos -1929 -1025 -415.96875; setang 0 3 0",
 			"url": "https://setpos.gg/nuke/t4"
 		},
 		{
@@ -1151,9 +1151,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 336,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -1874.000000 -1076.000000 -415.968750",
-			"setposSetang": "setpos -1874.000000 -1076.000000 -415.968750; setang 0.000000 336.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -1874 -1076 -415.96875",
+			"setposSetang": "setpos -1874 -1076 -415.96875; setang 0 336 0",
 			"url": "https://setpos.gg/nuke/t5"
 		},
 		{
@@ -1166,9 +1166,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 340,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -1808.000000 -1089.000000 -415.968750",
-			"setposSetang": "setpos -1808.000000 -1089.000000 -415.968750; setang 0.000000 340.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -1808 -1089 -415.96875",
+			"setposSetang": "setpos -1808 -1089 -415.96875; setang 0 340 0",
 			"url": "https://setpos.gg/nuke/t6"
 		},
 		{
@@ -1181,9 +1181,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 74.5,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -1947.010010 -1102.109985 -415.968750",
-			"setposSetang": "setpos -1947.010010 -1102.109985 -415.968750; setang 0.000000 74.500000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -1947.010009765625 -1102.1099853515625 -415.96875",
+			"setposSetang": "setpos -1947.010009765625 -1102.1099853515625 -415.96875; setang 0 74.5 0",
 			"url": "https://setpos.gg/nuke/t7"
 		},
 		{
@@ -1196,9 +1196,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 40,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -1832.000000 -1160.000000 -415.968750",
-			"setposSetang": "setpos -1832.000000 -1160.000000 -415.968750; setang 0.000000 40.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -1832 -1160 -415.96875",
+			"setposSetang": "setpos -1832 -1160 -415.96875; setang 0 40 0",
 			"url": "https://setpos.gg/nuke/t8"
 		},
 		{
@@ -1211,10 +1211,10 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 145,
-			"angleStatus": "map-entity",
-			"setpos": "setpos 2512.000000 -504.000000 -343.367126",
-			"setposSetang": "setpos 2512.000000 -504.000000 -343.367126; setang 0.000000 145.000000 0.000000",
-			"url": "https://setpos.gg/nuke/ct1"
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos 2512 -504 -343.36712646484375",
+			"setposSetang": "setpos 2512 -504 -343.36712646484375; setang 0 145 0",
+			"url": null
 		},
 		{
 			"map": "nuke",
@@ -1226,10 +1226,10 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 161,
-			"angleStatus": "map-entity",
-			"setpos": "setpos 2584.000000 -504.000000 -351.968750",
-			"setposSetang": "setpos 2584.000000 -504.000000 -351.968750; setang 0.000000 161.000000 0.000000",
-			"url": "https://setpos.gg/nuke/ct2"
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos 2584 -504 -351.96875",
+			"setposSetang": "setpos 2584 -504 -351.96875; setang 0 161 0",
+			"url": null
 		},
 		{
 			"map": "nuke",
@@ -1241,10 +1241,10 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 207.5,
-			"angleStatus": "map-entity",
-			"setpos": "setpos 2552.000000 -424.000000 -351.968750",
-			"setposSetang": "setpos 2552.000000 -424.000000 -351.968750; setang 0.000000 207.500000 0.000000",
-			"url": "https://setpos.gg/nuke/ct3"
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos 2552 -424 -351.96875",
+			"setposSetang": "setpos 2552 -424 -351.96875; setang 0 207.5 0",
+			"url": null
 		},
 		{
 			"map": "nuke",
@@ -1256,10 +1256,10 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 271,
-			"angleStatus": "map-entity",
-			"setpos": "setpos 2504.000000 -344.000000 -351.968750",
-			"setposSetang": "setpos 2504.000000 -344.000000 -351.968750; setang 0.000000 271.000000 0.000000",
-			"url": "https://setpos.gg/nuke/ct4"
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos 2504 -344 -351.96875",
+			"setposSetang": "setpos 2504 -344 -351.96875; setang 0 271 0",
+			"url": null
 		},
 		{
 			"map": "nuke",
@@ -1271,10 +1271,10 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 200.5,
-			"angleStatus": "map-entity",
-			"setpos": "setpos 2585.000000 -344.000000 -351.968750",
-			"setposSetang": "setpos 2585.000000 -344.000000 -351.968750; setang 0.000000 200.500000 0.000000",
-			"url": "https://setpos.gg/nuke/ct5"
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos 2585 -344 -351.96875",
+			"setposSetang": "setpos 2585 -344 -351.96875; setang 0 200.5 0",
+			"url": null
 		},
 		{
 			"map": "cache",
@@ -1286,9 +1286,9 @@
 			"zStatus": "published-lineup-feet",
 			"pitch": 0,
 			"yaw": 182,
-			"angleStatus": "map-entity",
-			"setpos": "setpos 2995.893555 -168.000000 1608.031372",
-			"setposSetang": "setpos 2995.893555 -168.000000 1608.031372; setang 0.000000 182.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos 2995.893555 -168 1608.031372",
+			"setposSetang": "setpos 2995.893555 -168 1608.031372; setang 0 182 0",
 			"url": "https://setpos.gg/cache/t1"
 		},
 		{
@@ -1301,9 +1301,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 182,
-			"angleStatus": "map-entity",
-			"setpos": "setpos 3094.268555 -152.582214 1608.031494",
-			"setposSetang": "setpos 3094.268555 -152.582214 1608.031494; setang 0.000000 182.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos 3094.2685546875 -152.58221435546875 1608.031494140625",
+			"setposSetang": "setpos 3094.2685546875 -152.58221435546875 1608.031494140625; setang 0 182 0",
 			"url": "https://setpos.gg/cache/t2"
 		},
 		{
@@ -1316,9 +1316,9 @@
 			"zStatus": "published-lineup-feet",
 			"pitch": 0,
 			"yaw": 182,
-			"angleStatus": "map-entity",
-			"setpos": "setpos 3171.643555 -100.832214 1608.031250",
-			"setposSetang": "setpos 3171.643555 -100.832214 1608.031250; setang 0.000000 182.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos 3171.643555 -100.832214 1608.03125",
+			"setposSetang": "setpos 3171.643555 -100.832214 1608.03125; setang 0 182 0",
 			"url": "https://setpos.gg/cache/t3"
 		},
 		{
@@ -1331,9 +1331,9 @@
 			"zStatus": "published-lineup-feet",
 			"pitch": 0,
 			"yaw": 182,
-			"angleStatus": "map-entity",
+			"angleStatus": "runtime-verified",
 			"setpos": "setpos 2949.018555 -47.000008 1608.031372",
-			"setposSetang": "setpos 2949.018555 -47.000008 1608.031372; setang 0.000000 182.000000 0.000000",
+			"setposSetang": "setpos 2949.018555 -47.000008 1608.031372; setang 0 182 0",
 			"url": "https://setpos.gg/cache/t4"
 		},
 		{
@@ -1346,9 +1346,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 182,
-			"angleStatus": "map-entity",
-			"setpos": "setpos 3041.768555 -21.082214 1608.031372",
-			"setposSetang": "setpos 3041.768555 -21.082214 1608.031372; setang 0.000000 182.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos 3041.7685546875 -21.08221435546875 1608.0313720703125",
+			"setposSetang": "setpos 3041.7685546875 -21.08221435546875 1608.0313720703125; setang 0 182 0",
 			"url": "https://setpos.gg/cache/t5"
 		},
 		{
@@ -1361,9 +1361,9 @@
 			"zStatus": "published-lineup-feet",
 			"pitch": 0,
 			"yaw": 182,
-			"angleStatus": "map-entity",
+			"angleStatus": "runtime-verified",
 			"setpos": "setpos 3162.143555 -5.000008 1608.031372",
-			"setposSetang": "setpos 3162.143555 -5.000008 1608.031372; setang 0.000000 182.000000 0.000000",
+			"setposSetang": "setpos 3162.143555 -5.000008 1608.031372; setang 0 182 0",
 			"url": "https://setpos.gg/cache/t6"
 		},
 		{
@@ -1376,9 +1376,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 182,
-			"angleStatus": "map-entity",
-			"setpos": "setpos 2916.768555 69.417786 1608.031372",
-			"setposSetang": "setpos 2916.768555 69.417786 1608.031372; setang 0.000000 182.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos 2916.7685546875 69.41778564453125 1608.0313720703125",
+			"setposSetang": "setpos 2916.7685546875 69.41778564453125 1608.0313720703125; setang 0 182 0",
 			"url": "https://setpos.gg/cache/t7"
 		},
 		{
@@ -1391,9 +1391,9 @@
 			"zStatus": "published-lineup-feet",
 			"pitch": 0,
 			"yaw": 182,
-			"angleStatus": "map-entity",
+			"angleStatus": "runtime-verified",
 			"setpos": "setpos 3037.893555 66.667786 1608.031372",
-			"setposSetang": "setpos 3037.893555 66.667786 1608.031372; setang 0.000000 182.000000 0.000000",
+			"setposSetang": "setpos 3037.893555 66.667786 1608.031372; setang 0 182 0",
 			"url": "https://setpos.gg/cache/t8"
 		},
 		{
@@ -1406,9 +1406,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 182,
-			"angleStatus": "map-entity",
-			"setpos": "setpos 3077.768555 135.917786 1616.031250",
-			"setposSetang": "setpos 3077.768555 135.917786 1616.031250; setang 0.000000 182.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos 3077.7685546875 135.91778564453125 1616.03125",
+			"setposSetang": "setpos 3077.7685546875 135.91778564453125 1616.03125; setang 0 182 0",
 			"url": "https://setpos.gg/cache/t9"
 		},
 		{
@@ -1421,9 +1421,9 @@
 			"zStatus": "published-lineup-feet",
 			"pitch": 0,
 			"yaw": 182,
-			"angleStatus": "map-entity",
+			"angleStatus": "runtime-verified",
 			"setpos": "setpos 2922.518555 165.667786 1616.030273",
-			"setposSetang": "setpos 2922.518555 165.667786 1616.030273; setang 0.000000 182.000000 0.000000",
+			"setposSetang": "setpos 2922.518555 165.667786 1616.030273; setang 0 182 0",
 			"url": "https://setpos.gg/cache/t10"
 		},
 		{
@@ -1436,9 +1436,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 270,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -1400.283203 706.819336 1614.031250",
-			"setposSetang": "setpos -1400.283203 706.819336 1614.031250; setang 0.000000 270.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -1400.283203125 706.8193359375 1614.03125",
+			"setposSetang": "setpos -1400.283203125 706.8193359375 1614.03125; setang 0 270 0",
 			"url": "https://setpos.gg/cache/ct1"
 		},
 		{
@@ -1451,9 +1451,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 270,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -1488.283203 706.819336 1614.031250",
-			"setposSetang": "setpos -1488.283203 706.819336 1614.031250; setang 0.000000 270.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -1488.283203125 706.8193359375 1614.03125",
+			"setposSetang": "setpos -1488.283203125 706.8193359375 1614.03125; setang 0 270 0",
 			"url": "https://setpos.gg/cache/ct2"
 		},
 		{
@@ -1466,9 +1466,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 270,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -1524.283203 794.819336 1614.031250",
-			"setposSetang": "setpos -1524.283203 794.819336 1614.031250; setang 0.000000 270.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -1524.283203125 794.8193359375 1614.03125",
+			"setposSetang": "setpos -1524.283203125 794.8193359375 1614.03125; setang 0 270 0",
 			"url": "https://setpos.gg/cache/ct3"
 		},
 		{
@@ -1481,9 +1481,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 270,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -1400.283203 874.819336 1614.031250",
-			"setposSetang": "setpos -1400.283203 874.819336 1614.031250; setang 0.000000 270.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -1400.283203125 874.8193359375 1614.03125",
+			"setposSetang": "setpos -1400.283203125 874.8193359375 1614.03125; setang 0 270 0",
 			"url": "https://setpos.gg/cache/ct4"
 		},
 		{
@@ -1496,9 +1496,9 @@
 			"zStatus": "observed-feet",
 			"pitch": 0,
 			"yaw": 270,
-			"angleStatus": "map-entity",
-			"setpos": "setpos -1488.283203 874.819336 1614.031250",
-			"setposSetang": "setpos -1488.283203 874.819336 1614.031250; setang 0.000000 270.000000 0.000000",
+			"angleStatus": "runtime-verified",
+			"setpos": "setpos -1488.283203125 874.8193359375 1614.03125",
+			"setposSetang": "setpos -1488.283203125 874.8193359375 1614.03125; setang 0 270 0",
 			"url": "https://setpos.gg/cache/ct5"
 		}
 	]
