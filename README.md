@@ -16,7 +16,7 @@ Commands marked `entity-origin-unsettled` start at the entity origin: the player
 <!-- generated:maps -->
 ### Mirage
 
-[Mirage on setpos.gg](https://setpos.gg/mirage) · CSV: [all](csv/mirage.csv), [competitive](csv/competitive/mirage.csv), [extras](csv/non-competitive/mirage.csv)
+[Mirage spawns with copyable setpos commands](https://setpos.gg/mirage/spawns) · [Mirage smokes](https://setpos.gg/mirage) · CSV: [all](csv/mirage.csv), [competitive](csv/competitive/mirage.csv), [extras](csv/non-competitive/mirage.csv)
 
 15 competitive positions.
 
@@ -66,7 +66,7 @@ Commands marked `entity-origin-unsettled` start at the entity origin: the player
 
 ### Dust II
 
-[Dust II on setpos.gg](https://setpos.gg/dust2) · CSV: [all](csv/dust2.csv), [competitive](csv/competitive/dust2.csv), [extras](csv/non-competitive/dust2.csv)
+[Dust II spawns with copyable setpos commands](https://setpos.gg/dust2/spawns) · [Dust II smokes](https://setpos.gg/dust2) · CSV: [all](csv/dust2.csv), [competitive](csv/competitive/dust2.csv), [extras](csv/non-competitive/dust2.csv)
 
 ![Dust II numbered T and CT spawns](maps/dust2.svg)
 
@@ -115,7 +115,7 @@ Commands marked `entity-origin-unsettled` start at the entity origin: the player
 
 ### Anubis
 
-[Anubis on setpos.gg](https://setpos.gg/anubis) · CSV: [all](csv/anubis.csv), [competitive](csv/competitive/anubis.csv), [extras](csv/non-competitive/anubis.csv)
+[Anubis spawns with copyable setpos commands](https://setpos.gg/anubis/spawns) · [Anubis smokes](https://setpos.gg/anubis) · CSV: [all](csv/anubis.csv), [competitive](csv/competitive/anubis.csv), [extras](csv/non-competitive/anubis.csv)
 
 ![Anubis numbered T and CT spawns](maps/anubis.svg)
 
@@ -166,7 +166,7 @@ Commands marked `entity-origin-unsettled` start at the entity origin: the player
 
 ### Inferno
 
-[Inferno on setpos.gg](https://setpos.gg/inferno) · CSV: [all](csv/inferno.csv), [competitive](csv/competitive/inferno.csv), [extras](csv/non-competitive/inferno.csv)
+[Inferno spawns with copyable setpos commands](https://setpos.gg/inferno/spawns) · [Inferno smokes](https://setpos.gg/inferno) · CSV: [all](csv/inferno.csv), [competitive](csv/competitive/inferno.csv), [extras](csv/non-competitive/inferno.csv)
 
 ![Inferno numbered T and CT spawns](maps/inferno.svg)
 
@@ -225,7 +225,7 @@ Commands marked `entity-origin-unsettled` start at the entity origin: the player
 
 ### Ancient
 
-[Ancient on setpos.gg](https://setpos.gg/ancient) · CSV: [all](csv/ancient.csv), [competitive](csv/competitive/ancient.csv), [extras](csv/non-competitive/ancient.csv)
+[Ancient spawns with copyable setpos commands](https://setpos.gg/ancient/spawns) · [Ancient smokes](https://setpos.gg/ancient) · CSV: [all](csv/ancient.csv), [competitive](csv/competitive/ancient.csv), [extras](csv/non-competitive/ancient.csv)
 
 ![Ancient numbered T and CT spawns](maps/ancient.svg)
 
@@ -268,7 +268,7 @@ Commands marked `entity-origin-unsettled` start at the entity origin: the player
 
 ### Nuke
 
-[Nuke on setpos.gg](https://setpos.gg/nuke) · CSV: [all](csv/nuke.csv), [competitive](csv/competitive/nuke.csv), [extras](csv/non-competitive/nuke.csv)
+[Nuke spawns with copyable setpos commands](https://setpos.gg/nuke/spawns) · [Nuke smokes](https://setpos.gg/nuke) · CSV: [all](csv/nuke.csv), [competitive](csv/competitive/nuke.csv), [extras](csv/non-competitive/nuke.csv)
 
 ![Nuke numbered T and CT spawns](maps/nuke.svg)
 
@@ -327,7 +327,7 @@ Commands marked `entity-origin-unsettled` start at the entity origin: the player
 
 ### Cache
 
-[Cache on setpos.gg](https://setpos.gg/cache) · CSV: [all](csv/cache.csv), [competitive](csv/competitive/cache.csv), [extras](csv/non-competitive/cache.csv)
+[Cache spawns with copyable setpos commands](https://setpos.gg/cache/spawns) · [Cache smokes](https://setpos.gg/cache) · CSV: [all](csv/cache.csv), [competitive](csv/competitive/cache.csv), [extras](csv/non-competitive/cache.csv)
 
 ![Cache numbered T and CT spawns](maps/cache.svg)
 
